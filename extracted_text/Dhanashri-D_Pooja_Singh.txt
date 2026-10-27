@@ -1,0 +1,132 @@
+[Page 1]
+Pooja Singh 
+
+ Data Analyst 
+
+ pooja.singh.anon@mail.com | +91-9535-123456 | 123 Innovation Lane, Kolkata, Tamil Nadu 485496
+
+ 
+ Professional Summary 
+
+ 
+ Data Analyst with 5 years of experience in manufacturing analytics, BI, and SQL optimization. Skilled in
+ Tableau/Power BI dashboard development, statistical analysis, and Python-based data science. Driven by
+
+ solving complex business problems through data and delivering insights that impact operations.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ Data Analyst 
+
+ TechnoSolutions Inc | 2024 - 2026 
+
+ (cid:127) Developed predictive model for equipment failure detection achieving 87% accuracy (Python,
+ scikit-learn) 
+
+ (cid:127) Designed and deployed enterprise data warehouse supporting 50+ production analysts (Snowflake,
+ 2TB+ data) 
+
+ (cid:127) Mentored 2 junior analysts on SQL optimization and BI best practices
+ (cid:127) Created interactive Power BI dashboards reducing reporting time from 8h/week to 1h/week
+
+ 
+ Senior Data Analyst 
+
+ Innovate Manufacturing Ltd | 2020 - 2023 
+ (cid:127) Developed predictive model for equipment failure detection achieving 87% accuracy (Python,
+
+ scikit-learn) 
+ (cid:127) Created interactive Power BI dashboards reducing reporting time from 8h/week to 1h/week
+
+ (cid:127) Designed and deployed enterprise data warehouse supporting 50+ production analysts (Snowflake,
+ 2TB+ data) 
+
+ (cid:127) Spearheaded data quality initiative cleaning and validating 15 critical datasets
+
+[Page 2]
+Projects 
+
+ 
+ Quality Analytics ETL Pipeline 
+
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ Supply Chain Analytics Platform 
+
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs 
+
+ Predictive Maintenance ML Model 
+
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ New Delhi Institute of Technology / Metropolitan University of Mumbai | Graduated: 2013 | GPA: 8.38/10
+
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Google Analytics Individual Qualification (2023) 
+
+ 
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi
+
+[Page 3]
+Contact 
+
+ 
+ pooja.singh.anon@mail.com 
+
+ +91-9535-123456 
+ 123 Innovation Lane, Kolkata, Tamil Nadu 485496 
+
+ linkedin.com/in/pooja-singh-anon 
+
+ github.com/pooja-singh-anon

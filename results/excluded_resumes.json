@@ -1,0 +1,420 @@
+[
+    {
+        "file_path": "datasets\\Dhanashri-D\\Suresh_Singh.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 3,
+        "candidate": {
+            "candidate_name": "Suresh Singh",
+            "email": "suresh.singh.12345@anonmail.com",
+            "phone": "+91-9876-543210",
+            "skills": [
+                "PLC Programming",
+                "SCADA & HMI",
+                "Industrial Networks",
+                "Control Theory",
+                "Manufacturing",
+                "Electrical Systems"
+            ],
+            "education_summary": "B.Tech in Electrical Engineering, National Institute of Technology (NIT), Graduated: 2014",
+            "employment_count": 2,
+            "professional_experience": [
+                {
+                    "company": "AutoTech Industries",
+                    "position": "Controls Engineer",
+                    "start_date": "2023",
+                    "end_date": "2026"
+                },
+                {
+                    "company": "TechSolutions Ltd",
+                    "position": "Senior Controls Engineer",
+                    "start_date": "2021",
+                    "end_date": "2022"
+                }
+            ],
+            "claimed_experience_years": 4,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 6 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Placeholder contact information (anonmail.com, generic phone)",
+                "Future dates in employment (2023-2026)",
+                "Employment duration estimated from year-only dates",
+                "Employment end date is in the future; verify status"
+            ],
+            "projects_count": 3,
+            "independently_verified": false
+        },
+        "candidate_name": "Suresh Singh",
+        "email": "suresh.singh.12345@anonmail.com",
+        "phone": "+91-9876-543210",
+        "skills": [
+            "PLC Programming",
+            "SCADA & HMI",
+            "Industrial Networks",
+            "Control Theory",
+            "Manufacturing",
+            "Electrical Systems"
+        ],
+        "education_summary": "B.Tech in Electrical Engineering, National Institute of Technology (NIT), Graduated: 2014",
+        "employment_count": 2,
+        "professional_experience": [
+            {
+                "company": "AutoTech Industries",
+                "position": "Controls Engineer",
+                "start_date": "2023",
+                "end_date": "2026"
+            },
+            {
+                "company": "TechSolutions Ltd",
+                "position": "Senior Controls Engineer",
+                "start_date": "2021",
+                "end_date": "2022"
+            }
+        ],
+        "claimed_experience_years": 4,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 6 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Placeholder contact information (anonmail.com, generic phone)",
+            "Future dates in employment (2023-2026)",
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status"
+        ],
+        "projects_count": 3,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 48.0,
+            "experience_years": 4.0,
+            "experience_source": "claimed",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 4.00 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status",
+            "Experience data requires verification.",
+            "Future dates in employment (2023-2026)",
+            "Location data requires verification.",
+            "Placeholder contact information (anonmail.com, generic phone)"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed"
+    },
+    {
+        "file_path": "datasets\\LithiVR\\junior-front-end-web-developer-resume.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 1,
+        "candidate": {
+            "candidate_name": "GRAYSON PRICE",
+            "email": "g.price@email.com",
+            "phone": "(123) 456-7890",
+            "skills": [
+                "HTML5",
+                "CSS3",
+                "TypeScript",
+                "Bootstrap",
+                "GitHub",
+                "WebStorm",
+                "Yarn",
+                "Webpack",
+                "Chrome DevTools",
+                "InVision"
+            ],
+            "education_summary": "Bachelor of Science in Computer Science from University of Texas, 2019-2023",
+            "employment_count": 2,
+            "professional_experience": [
+                {
+                    "company": "BJ's Restaurant & Brewhouse",
+                    "position": "Restaurant Server",
+                    "start_date": "2022",
+                    "end_date": "present"
+                },
+                {
+                    "company": "University of Texas",
+                    "position": "Library Assistant",
+                    "start_date": "2021",
+                    "end_date": "2022"
+                }
+            ],
+            "claimed_experience_years": null,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 5 years and 10 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Placeholder email address",
+                "Employment duration estimated from year-only dates"
+            ],
+            "projects_count": 1,
+            "independently_verified": false
+        },
+        "candidate_name": "GRAYSON PRICE",
+        "email": "g.price@email.com",
+        "phone": "(123) 456-7890",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "TypeScript",
+            "Bootstrap",
+            "GitHub",
+            "WebStorm",
+            "Yarn",
+            "Webpack",
+            "Chrome DevTools",
+            "InVision"
+        ],
+        "education_summary": "Bachelor of Science in Computer Science from University of Texas, 2019-2023",
+        "employment_count": 2,
+        "professional_experience": [
+            {
+                "company": "BJ's Restaurant & Brewhouse",
+                "position": "Restaurant Server",
+                "start_date": "2022",
+                "end_date": "present"
+            },
+            {
+                "company": "University of Texas",
+                "position": "Library Assistant",
+                "start_date": "2021",
+                "end_date": "2022"
+            }
+        ],
+        "claimed_experience_years": null,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 5 years and 10 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Placeholder email address",
+            "Employment duration estimated from year-only dates"
+        ],
+        "projects_count": 1,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 70,
+            "experience_years": 5.83,
+            "experience_source": "llm_estimate",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 5.83 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Experience data requires verification.",
+            "Location data requires verification.",
+            "Placeholder email address"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed"
+    },
+    {
+        "file_path": "datasets\\LithiVR\\Resume - 1.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 2,
+        "candidate": {
+            "candidate_name": "Charlotte May",
+            "email": "john.smith@gmail.com",
+            "phone": null,
+            "skills": [
+                "Efficient Coding",
+                "Team Collaboration",
+                "Problem Solving",
+                "JavaScript",
+                "React",
+                "Vue",
+                "Angular",
+                "TypeScript",
+                "HTML5",
+                "CSS3"
+            ],
+            "education_summary": "Bachelor of Science in Computer Science, University of Sydney",
+            "employment_count": 3,
+            "professional_experience": [
+                {
+                    "company": "ABC Corp",
+                    "position": "Senior Frontend Developer",
+                    "start_date": "2019",
+                    "end_date": "2022"
+                },
+                {
+                    "company": "XYZ Inc",
+                    "position": "Frontend Developer",
+                    "start_date": "2017",
+                    "end_date": "2019"
+                },
+                {
+                    "company": "123 Co",
+                    "position": "Web Developer",
+                    "start_date": "2015",
+                    "end_date": "2017"
+                }
+            ],
+            "claimed_experience_years": null,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 8 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "placeholder email",
+                "Employment duration estimated from year-only dates"
+            ],
+            "projects_count": 0,
+            "independently_verified": false
+        },
+        "candidate_name": "Charlotte May",
+        "email": "john.smith@gmail.com",
+        "phone": null,
+        "skills": [
+            "Efficient Coding",
+            "Team Collaboration",
+            "Problem Solving",
+            "JavaScript",
+            "React",
+            "Vue",
+            "Angular",
+            "TypeScript",
+            "HTML5",
+            "CSS3"
+        ],
+        "education_summary": "Bachelor of Science in Computer Science, University of Sydney",
+        "employment_count": 3,
+        "professional_experience": [
+            {
+                "company": "ABC Corp",
+                "position": "Senior Frontend Developer",
+                "start_date": "2019",
+                "end_date": "2022"
+            },
+            {
+                "company": "XYZ Inc",
+                "position": "Frontend Developer",
+                "start_date": "2017",
+                "end_date": "2019"
+            },
+            {
+                "company": "123 Co",
+                "position": "Web Developer",
+                "start_date": "2015",
+                "end_date": "2017"
+            }
+        ],
+        "claimed_experience_years": null,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 8 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "placeholder email",
+            "Employment duration estimated from year-only dates"
+        ],
+        "projects_count": 0,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 96,
+            "experience_years": 8.0,
+            "experience_source": "llm_estimate",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 8.00 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Experience data requires verification.",
+            "Location data requires verification.",
+            "placeholder email"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed"
+    }
+]

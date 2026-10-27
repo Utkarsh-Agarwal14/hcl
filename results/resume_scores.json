@@ -1,0 +1,1119 @@
+[
+    {
+        "file_path": "datasets\\LithiVR\\JavaScript Resume -2.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 1,
+        "candidate": {
+            "candidate_name": null,
+            "email": "professionalemail@resumeworded.com",
+            "phone": "+1-234-456-789",
+            "skills": [
+                "JavaScript (ES6, Redux)",
+                "HTML/XML",
+                "CSS",
+                "Python",
+                "SQL",
+                "ASP",
+                "Typescript",
+                "Building APIs",
+                "MySQL",
+                "Tableau",
+                "Selenium",
+                "GraphQL"
+            ],
+            "education_summary": "Bachelor of Science, Computer Science.",
+            "employment_count": 4,
+            "professional_experience": [
+                {
+                    "company": "Resume Worded",
+                    "position": "JavaScript Developer",
+                    "start_date": "2018-06",
+                    "end_date": "present"
+                },
+                {
+                    "company": "Growthshi",
+                    "position": "Front End Developer",
+                    "start_date": "2015-01",
+                    "end_date": "2018-05"
+                },
+                {
+                    "company": "Resume Worded",
+                    "position": "Software Engineer",
+                    "start_date": "2011-11",
+                    "end_date": "2014-12"
+                },
+                {
+                    "company": "Resume Worded",
+                    "position": "Junior Software Engineer",
+                    "start_date": "2010-05",
+                    "end_date": "2011-10"
+                }
+            ],
+            "claimed_experience_years": null,
+            "calculated_experience_months": 198,
+            "experience_estimate": "16 years and 6 months",
+            "experience_dates_complete": true,
+            "review_flags": [],
+            "projects_count": 0,
+            "independently_verified": false
+        },
+        "candidate_name": "JavaScript Resume -2",
+        "email": "professionalemail@resumeworded.com",
+        "phone": "+1-234-456-789",
+        "skills": [
+            "JavaScript (ES6, Redux)",
+            "HTML/XML",
+            "CSS",
+            "Python",
+            "SQL",
+            "ASP",
+            "Typescript",
+            "Building APIs",
+            "MySQL",
+            "Tableau",
+            "Selenium",
+            "GraphQL"
+        ],
+        "education_summary": "Bachelor of Science, Computer Science.",
+        "employment_count": 4,
+        "professional_experience": [
+            {
+                "company": "Resume Worded",
+                "position": "JavaScript Developer",
+                "start_date": "2018-06",
+                "end_date": "present"
+            },
+            {
+                "company": "Growthshi",
+                "position": "Front End Developer",
+                "start_date": "2015-01",
+                "end_date": "2018-05"
+            },
+            {
+                "company": "Resume Worded",
+                "position": "Software Engineer",
+                "start_date": "2011-11",
+                "end_date": "2014-12"
+            },
+            {
+                "company": "Resume Worded",
+                "position": "Junior Software Engineer",
+                "start_date": "2010-05",
+                "end_date": "2011-10"
+            }
+        ],
+        "claimed_experience_years": null,
+        "calculated_experience_months": 198,
+        "experience_estimate": "16 years and 6 months",
+        "experience_dates_complete": true,
+        "review_flags": [],
+        "projects_count": 0,
+        "independently_verified": false,
+        "skills_score": 23.33,
+        "experience_score": 100,
+        "overall_score": 46.33,
+        "matched_required_skills": [
+            "python",
+            "sql"
+        ],
+        "missing_required_skills": [
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 100,
+            "eligible": true,
+            "experience_months": 198.0,
+            "experience_years": 16.5,
+            "experience_source": "calculated",
+            "requires_review": false,
+            "reason": "Meets the minimum experience requirement."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": true,
+        "requires_review": true,
+        "review_reasons": [
+            "Location data requires verification."
+        ],
+        "recommendation": "Eligible - Verify Details",
+        "shortlist_rank": 1,
+        "copied_resume_path": "C:\\Users\\utkar\\OneDrive\\Desktop\\hcl_hk\\results\\top_resumes\\01_JavaScript Resume -2_REVIEW.pdf"
+    },
+    {
+        "file_path": "datasets\\Dhanashri-D\\Vikram_Roy.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 3,
+        "candidate": {
+            "candidate_name": "Vikram Roy",
+            "email": "vikram.roy.engineer@fakemail.com",
+            "phone": "+91-9876-543210",
+            "skills": [
+                "PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured Text, Ladder Logic",
+                "SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition",
+                "Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA",
+                "Control Theory: PID Control, Process Control, Motion Control, Safety Systems",
+                "Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material Handling"
+            ],
+            "education_summary": "B.Tech in Electrical Engineering from National Institute of Technology (NIT) graduated in 2004; M.Tech in Control Systems from Institute of Engineering and Technology graduated in 2006.",
+            "employment_count": 4,
+            "professional_experience": [
+                {
+                    "company": "Global Logistics Solutions",
+                    "position": "Controls Engineer",
+                    "start_date": "2021",
+                    "end_date": "2026"
+                },
+                {
+                    "company": "Tech Innovations Ltd.",
+                    "position": "Senior Controls Engineer",
+                    "start_date": "2017",
+                    "end_date": "2020"
+                },
+                {
+                    "company": "Pioneer Automotive",
+                    "position": "Lead Controls Engineer / Team Lead",
+                    "start_date": "2012",
+                    "end_date": "2016"
+                },
+                {
+                    "company": "Future Mobility Corp.",
+                    "position": "Lead Controls Engineer / Team Lead",
+                    "start_date": "2009",
+                    "end_date": "2011"
+                }
+            ],
+            "claimed_experience_years": "14",
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 18 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Placeholder email domain 'fakemail.com'",
+                "Future end date '2026' in Global Logistics Solutions dates",
+                "Employment duration estimated from year-only dates",
+                "Employment end date is in the future; verify status"
+            ],
+            "projects_count": 4,
+            "independently_verified": false
+        },
+        "candidate_name": "Vikram Roy",
+        "email": "vikram.roy.engineer@fakemail.com",
+        "phone": "+91-9876-543210",
+        "skills": [
+            "PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured Text, Ladder Logic",
+            "SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition",
+            "Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA",
+            "Control Theory: PID Control, Process Control, Motion Control, Safety Systems",
+            "Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material Handling"
+        ],
+        "education_summary": "B.Tech in Electrical Engineering from National Institute of Technology (NIT) graduated in 2004; M.Tech in Control Systems from Institute of Engineering and Technology graduated in 2006.",
+        "employment_count": 4,
+        "professional_experience": [
+            {
+                "company": "Global Logistics Solutions",
+                "position": "Controls Engineer",
+                "start_date": "2021",
+                "end_date": "2026"
+            },
+            {
+                "company": "Tech Innovations Ltd.",
+                "position": "Senior Controls Engineer",
+                "start_date": "2017",
+                "end_date": "2020"
+            },
+            {
+                "company": "Pioneer Automotive",
+                "position": "Lead Controls Engineer / Team Lead",
+                "start_date": "2012",
+                "end_date": "2016"
+            },
+            {
+                "company": "Future Mobility Corp.",
+                "position": "Lead Controls Engineer / Team Lead",
+                "start_date": "2009",
+                "end_date": "2011"
+            }
+        ],
+        "claimed_experience_years": "14",
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 18 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Placeholder email domain 'fakemail.com'",
+            "Future end date '2026' in Global Logistics Solutions dates",
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status"
+        ],
+        "projects_count": 4,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 100,
+        "overall_score": 30.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 100,
+            "eligible": true,
+            "experience_months": 168.0,
+            "experience_years": 14.0,
+            "experience_source": "claimed",
+            "requires_review": true,
+            "reason": "Experience meets the threshold but needs verification."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": true,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status",
+            "Experience data requires verification.",
+            "Future end date '2026' in Global Logistics Solutions dates",
+            "Location data requires verification.",
+            "Placeholder email domain 'fakemail.com'"
+        ],
+        "recommendation": "Eligible - Verify Details",
+        "shortlist_rank": 2,
+        "copied_resume_path": "C:\\Users\\utkar\\OneDrive\\Desktop\\hcl_hk\\results\\top_resumes\\02_Vikram_Roy_REVIEW.pdf"
+    },
+    {
+        "file_path": "datasets\\LithiVR\\JavaScript Resume -1.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 1,
+        "candidate": {
+            "candidate_name": "First Last",
+            "email": "professionalemail@resumeworded.com",
+            "phone": "+1-234-456-789",
+            "skills": [
+                "Asynchronous Programming (Advanced)",
+                "Lazy Loading (Experienced)",
+                "Debugging and Testing",
+                "English (Native)",
+                "German (Fluent)",
+                "French (Conversational)"
+            ],
+            "education_summary": "Associate of Science — Computer Programming",
+            "employment_count": 3,
+            "professional_experience": [
+                {
+                    "company": "Resume Worded",
+                    "position": "JavaScript Developer (Front-End)",
+                    "start_date": "2015",
+                    "end_date": "present"
+                },
+                {
+                    "company": "Growthsi",
+                    "position": "Web Content Editor",
+                    "start_date": "2013",
+                    "end_date": "2015"
+                },
+                {
+                    "company": "Resume Worded Exciting Company",
+                    "position": "UI Designer",
+                    "start_date": "2011",
+                    "end_date": "2013"
+                }
+            ],
+            "claimed_experience_years": "10",
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 15 years and 10 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Employment duration estimated from year-only dates"
+            ],
+            "projects_count": 0,
+            "independently_verified": false
+        },
+        "candidate_name": "First Last",
+        "email": "professionalemail@resumeworded.com",
+        "phone": "+1-234-456-789",
+        "skills": [
+            "Asynchronous Programming (Advanced)",
+            "Lazy Loading (Experienced)",
+            "Debugging and Testing",
+            "English (Native)",
+            "German (Fluent)",
+            "French (Conversational)"
+        ],
+        "education_summary": "Associate of Science — Computer Programming",
+        "employment_count": 3,
+        "professional_experience": [
+            {
+                "company": "Resume Worded",
+                "position": "JavaScript Developer (Front-End)",
+                "start_date": "2015",
+                "end_date": "present"
+            },
+            {
+                "company": "Growthsi",
+                "position": "Web Content Editor",
+                "start_date": "2013",
+                "end_date": "2015"
+            },
+            {
+                "company": "Resume Worded Exciting Company",
+                "position": "UI Designer",
+                "start_date": "2011",
+                "end_date": "2013"
+            }
+        ],
+        "claimed_experience_years": "10",
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 15 years and 10 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Employment duration estimated from year-only dates"
+        ],
+        "projects_count": 0,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 100,
+        "overall_score": 30.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 100,
+            "eligible": true,
+            "experience_months": 120.0,
+            "experience_years": 10.0,
+            "experience_source": "claimed",
+            "requires_review": true,
+            "reason": "Experience meets the threshold but needs verification."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": true,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Experience data requires verification.",
+            "Location data requires verification."
+        ],
+        "recommendation": "Eligible - Verify Details",
+        "shortlist_rank": 3,
+        "copied_resume_path": "C:\\Users\\utkar\\OneDrive\\Desktop\\hcl_hk\\results\\top_resumes\\03_JavaScript Resume -1_REVIEW.pdf"
+    },
+    {
+        "file_path": "datasets\\Dhanashri-D\\Shilpa_Menon.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 2,
+        "candidate": {
+            "candidate_name": "Shilpa Menon",
+            "email": "shilpa.menon.48264@techmail.com",
+            "phone": "+91-9654-363862",
+            "skills": [
+                "PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured Text, Ladder Logic",
+                "SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition",
+                "Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA",
+                "Control Theory: PID Control, Process Control, Motion Control, Safety Systems",
+                "Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material Handling"
+            ],
+            "education_summary": "B.Tech in Electrical Engineering from Technological University of India, Graduated 2017, GPA 8.03/10",
+            "employment_count": 1,
+            "professional_experience": [
+                {
+                    "company": "Tech Innovators Ltd",
+                    "position": "Controls Engineer",
+                    "start_date": "2025",
+                    "end_date": "2026"
+                }
+            ],
+            "claimed_experience_years": "1",
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 2 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Inconsistent employment dates (2025-2026) with 1 year experience and 2017 graduation",
+                "Employment duration estimated from year-only dates",
+                "Employment end date is in the future; verify status"
+            ],
+            "projects_count": 1,
+            "independently_verified": false
+        },
+        "candidate_name": "Shilpa Menon",
+        "email": "shilpa.menon.48264@techmail.com",
+        "phone": "+91-9654-363862",
+        "skills": [
+            "PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured Text, Ladder Logic",
+            "SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition",
+            "Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA",
+            "Control Theory: PID Control, Process Control, Motion Control, Safety Systems",
+            "Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material Handling"
+        ],
+        "education_summary": "B.Tech in Electrical Engineering from Technological University of India, Graduated 2017, GPA 8.03/10",
+        "employment_count": 1,
+        "professional_experience": [
+            {
+                "company": "Tech Innovators Ltd",
+                "position": "Controls Engineer",
+                "start_date": "2025",
+                "end_date": "2026"
+            }
+        ],
+        "claimed_experience_years": "1",
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 2 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Inconsistent employment dates (2025-2026) with 1 year experience and 2017 graduation",
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status"
+        ],
+        "projects_count": 1,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 12.0,
+            "experience_years": 1.0,
+            "experience_source": "claimed",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 1.00 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status",
+            "Experience data requires verification.",
+            "Inconsistent employment dates (2025-2026) with 1 year experience and 2017 graduation",
+            "Location data requires verification."
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed",
+        "shortlist_rank": 4,
+        "copied_resume_path": "C:\\Users\\utkar\\OneDrive\\Desktop\\hcl_hk\\results\\top_resumes\\04_Shilpa_Menon_REVIEW.pdf"
+    },
+    {
+        "file_path": "datasets\\Dhanashri-D\\Suresh_Kapoor.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 2,
+        "candidate": {
+            "candidate_name": "Suresh Kapoor",
+            "email": "suresh.kapoor.74367@fakemail.com",
+            "phone": "+91-9111-222222",
+            "skills": [
+                "PLC Programming: Basic Ladder Logic, Limited STL",
+                "SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition",
+                "Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA",
+                "Control Theory: PID Control, Process Control, Motion Control, Safety Systems",
+                "Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material Handling"
+            ],
+            "education_summary": "B.Tech in Electrical Engineering, National Institute of Technology (NIT), Graduated 2017, GPA 7.19/10, Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics",
+            "employment_count": 1,
+            "professional_experience": [
+                {
+                    "company": "Precision Automation Corp",
+                    "position": "Controls Engineer",
+                    "start_date": "2025",
+                    "end_date": "2026"
+                }
+            ],
+            "claimed_experience_years": 1,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 2 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Future employment dates (2025-2026) conflicting with 1 year experience claim",
+                "Address inconsistency: Pune listed with West Bengal state",
+                "Placeholder email domain 'fakemail.com' and phone number '222222'",
+                "Employment duration estimated from year-only dates",
+                "Employment end date is in the future; verify status"
+            ],
+            "projects_count": 2,
+            "independently_verified": false
+        },
+        "candidate_name": "Suresh Kapoor",
+        "email": "suresh.kapoor.74367@fakemail.com",
+        "phone": "+91-9111-222222",
+        "skills": [
+            "PLC Programming: Basic Ladder Logic, Limited STL",
+            "SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition",
+            "Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA",
+            "Control Theory: PID Control, Process Control, Motion Control, Safety Systems",
+            "Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material Handling"
+        ],
+        "education_summary": "B.Tech in Electrical Engineering, National Institute of Technology (NIT), Graduated 2017, GPA 7.19/10, Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics",
+        "employment_count": 1,
+        "professional_experience": [
+            {
+                "company": "Precision Automation Corp",
+                "position": "Controls Engineer",
+                "start_date": "2025",
+                "end_date": "2026"
+            }
+        ],
+        "claimed_experience_years": 1,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 2 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Future employment dates (2025-2026) conflicting with 1 year experience claim",
+            "Address inconsistency: Pune listed with West Bengal state",
+            "Placeholder email domain 'fakemail.com' and phone number '222222'",
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status"
+        ],
+        "projects_count": 2,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 12.0,
+            "experience_years": 1.0,
+            "experience_source": "claimed",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 1.00 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Address inconsistency: Pune listed with West Bengal state",
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status",
+            "Experience data requires verification.",
+            "Future employment dates (2025-2026) conflicting with 1 year experience claim",
+            "Location data requires verification.",
+            "Placeholder email domain 'fakemail.com' and phone number '222222'"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed",
+        "shortlist_rank": 5,
+        "copied_resume_path": "C:\\Users\\utkar\\OneDrive\\Desktop\\hcl_hk\\results\\top_resumes\\05_Suresh_Kapoor_REVIEW.pdf"
+    },
+    {
+        "file_path": "datasets\\Dhanashri-D\\Suresh_Singh.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 3,
+        "candidate": {
+            "candidate_name": "Suresh Singh",
+            "email": "suresh.singh.12345@anonmail.com",
+            "phone": "+91-9876-543210",
+            "skills": [
+                "PLC Programming",
+                "SCADA & HMI",
+                "Industrial Networks",
+                "Control Theory",
+                "Manufacturing",
+                "Electrical Systems"
+            ],
+            "education_summary": "B.Tech in Electrical Engineering, National Institute of Technology (NIT), Graduated: 2014",
+            "employment_count": 2,
+            "professional_experience": [
+                {
+                    "company": "AutoTech Industries",
+                    "position": "Controls Engineer",
+                    "start_date": "2023",
+                    "end_date": "2026"
+                },
+                {
+                    "company": "TechSolutions Ltd",
+                    "position": "Senior Controls Engineer",
+                    "start_date": "2021",
+                    "end_date": "2022"
+                }
+            ],
+            "claimed_experience_years": 4,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 6 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Placeholder contact information (anonmail.com, generic phone)",
+                "Future dates in employment (2023-2026)",
+                "Employment duration estimated from year-only dates",
+                "Employment end date is in the future; verify status"
+            ],
+            "projects_count": 3,
+            "independently_verified": false
+        },
+        "candidate_name": "Suresh Singh",
+        "email": "suresh.singh.12345@anonmail.com",
+        "phone": "+91-9876-543210",
+        "skills": [
+            "PLC Programming",
+            "SCADA & HMI",
+            "Industrial Networks",
+            "Control Theory",
+            "Manufacturing",
+            "Electrical Systems"
+        ],
+        "education_summary": "B.Tech in Electrical Engineering, National Institute of Technology (NIT), Graduated: 2014",
+        "employment_count": 2,
+        "professional_experience": [
+            {
+                "company": "AutoTech Industries",
+                "position": "Controls Engineer",
+                "start_date": "2023",
+                "end_date": "2026"
+            },
+            {
+                "company": "TechSolutions Ltd",
+                "position": "Senior Controls Engineer",
+                "start_date": "2021",
+                "end_date": "2022"
+            }
+        ],
+        "claimed_experience_years": 4,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 6 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Placeholder contact information (anonmail.com, generic phone)",
+            "Future dates in employment (2023-2026)",
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status"
+        ],
+        "projects_count": 3,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 48.0,
+            "experience_years": 4.0,
+            "experience_source": "claimed",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 4.00 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Employment end date is in the future; verify status",
+            "Experience data requires verification.",
+            "Future dates in employment (2023-2026)",
+            "Location data requires verification.",
+            "Placeholder contact information (anonmail.com, generic phone)"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed"
+    },
+    {
+        "file_path": "datasets\\LithiVR\\junior-front-end-web-developer-resume.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 1,
+        "candidate": {
+            "candidate_name": "GRAYSON PRICE",
+            "email": "g.price@email.com",
+            "phone": "(123) 456-7890",
+            "skills": [
+                "HTML5",
+                "CSS3",
+                "TypeScript",
+                "Bootstrap",
+                "GitHub",
+                "WebStorm",
+                "Yarn",
+                "Webpack",
+                "Chrome DevTools",
+                "InVision"
+            ],
+            "education_summary": "Bachelor of Science in Computer Science from University of Texas, 2019-2023",
+            "employment_count": 2,
+            "professional_experience": [
+                {
+                    "company": "BJ's Restaurant & Brewhouse",
+                    "position": "Restaurant Server",
+                    "start_date": "2022",
+                    "end_date": "present"
+                },
+                {
+                    "company": "University of Texas",
+                    "position": "Library Assistant",
+                    "start_date": "2021",
+                    "end_date": "2022"
+                }
+            ],
+            "claimed_experience_years": null,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 5 years and 10 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "Placeholder email address",
+                "Employment duration estimated from year-only dates"
+            ],
+            "projects_count": 1,
+            "independently_verified": false
+        },
+        "candidate_name": "GRAYSON PRICE",
+        "email": "g.price@email.com",
+        "phone": "(123) 456-7890",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "TypeScript",
+            "Bootstrap",
+            "GitHub",
+            "WebStorm",
+            "Yarn",
+            "Webpack",
+            "Chrome DevTools",
+            "InVision"
+        ],
+        "education_summary": "Bachelor of Science in Computer Science from University of Texas, 2019-2023",
+        "employment_count": 2,
+        "professional_experience": [
+            {
+                "company": "BJ's Restaurant & Brewhouse",
+                "position": "Restaurant Server",
+                "start_date": "2022",
+                "end_date": "present"
+            },
+            {
+                "company": "University of Texas",
+                "position": "Library Assistant",
+                "start_date": "2021",
+                "end_date": "2022"
+            }
+        ],
+        "claimed_experience_years": null,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 5 years and 10 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "Placeholder email address",
+            "Employment duration estimated from year-only dates"
+        ],
+        "projects_count": 1,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 70,
+            "experience_years": 5.83,
+            "experience_source": "llm_estimate",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 5.83 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Experience data requires verification.",
+            "Location data requires verification.",
+            "Placeholder email address"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed"
+    },
+    {
+        "file_path": "datasets\\LithiVR\\Resume - 1.pdf",
+        "status": "success",
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+        "pages_processed": 2,
+        "candidate": {
+            "candidate_name": "Charlotte May",
+            "email": "john.smith@gmail.com",
+            "phone": null,
+            "skills": [
+                "Efficient Coding",
+                "Team Collaboration",
+                "Problem Solving",
+                "JavaScript",
+                "React",
+                "Vue",
+                "Angular",
+                "TypeScript",
+                "HTML5",
+                "CSS3"
+            ],
+            "education_summary": "Bachelor of Science in Computer Science, University of Sydney",
+            "employment_count": 3,
+            "professional_experience": [
+                {
+                    "company": "ABC Corp",
+                    "position": "Senior Frontend Developer",
+                    "start_date": "2019",
+                    "end_date": "2022"
+                },
+                {
+                    "company": "XYZ Inc",
+                    "position": "Frontend Developer",
+                    "start_date": "2017",
+                    "end_date": "2019"
+                },
+                {
+                    "company": "123 Co",
+                    "position": "Web Developer",
+                    "start_date": "2015",
+                    "end_date": "2017"
+                }
+            ],
+            "claimed_experience_years": null,
+            "calculated_experience_months": null,
+            "experience_estimate": "Approximately 8 years and 0 months (estimated from incomplete dates)",
+            "experience_dates_complete": false,
+            "review_flags": [
+                "placeholder email",
+                "Employment duration estimated from year-only dates"
+            ],
+            "projects_count": 0,
+            "independently_verified": false
+        },
+        "candidate_name": "Charlotte May",
+        "email": "john.smith@gmail.com",
+        "phone": null,
+        "skills": [
+            "Efficient Coding",
+            "Team Collaboration",
+            "Problem Solving",
+            "JavaScript",
+            "React",
+            "Vue",
+            "Angular",
+            "TypeScript",
+            "HTML5",
+            "CSS3"
+        ],
+        "education_summary": "Bachelor of Science in Computer Science, University of Sydney",
+        "employment_count": 3,
+        "professional_experience": [
+            {
+                "company": "ABC Corp",
+                "position": "Senior Frontend Developer",
+                "start_date": "2019",
+                "end_date": "2022"
+            },
+            {
+                "company": "XYZ Inc",
+                "position": "Frontend Developer",
+                "start_date": "2017",
+                "end_date": "2019"
+            },
+            {
+                "company": "123 Co",
+                "position": "Web Developer",
+                "start_date": "2015",
+                "end_date": "2017"
+            }
+        ],
+        "claimed_experience_years": null,
+        "calculated_experience_months": null,
+        "experience_estimate": "Approximately 8 years and 0 months (estimated from incomplete dates)",
+        "experience_dates_complete": false,
+        "review_flags": [
+            "placeholder email",
+            "Employment duration estimated from year-only dates"
+        ],
+        "projects_count": 0,
+        "independently_verified": false,
+        "skills_score": 0.0,
+        "experience_score": 0,
+        "overall_score": 0.0,
+        "matched_required_skills": [],
+        "missing_required_skills": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "data structures and algorithms",
+            "sql",
+            "git"
+        ],
+        "matched_preferred_skills": [],
+        "missing_preferred_skills": [
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "scikit-learn",
+            "rest api",
+            "docker"
+        ],
+        "experience_check": {
+            "score": 0,
+            "eligible": false,
+            "experience_months": 96,
+            "experience_years": 8.0,
+            "experience_source": "llm_estimate",
+            "requires_review": true,
+            "reason": "Below minimum: approximately 8.00 years; required 10.00 years."
+        },
+        "location_check": {
+            "eligible": true,
+            "requires_review": true,
+            "candidate_location": null,
+            "reason": "Candidate location is not available in the extracted data."
+        },
+        "eligible": false,
+        "requires_review": true,
+        "review_reasons": [
+            "Employment duration estimated from year-only dates",
+            "Experience data requires verification.",
+            "Location data requires verification.",
+            "placeholder email"
+        ],
+        "recommendation": "Review Required - Requirements Not Confirmed"
+    }
+]

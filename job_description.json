@@ -1,0 +1,28 @@
+{
+  "job_title": "AI Engineer",
+  "location": "India",
+  "location_policy": "preferred",
+  "minimum_experience_years": 10,
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Structures and Algorithms",
+    "SQL",
+    "Git"
+  ],
+  "preferred_skills": [
+    "Natural Language Processing",
+    "Computer Vision",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "REST API",
+    "Docker"
+  ],
+  "weights": {
+    "skills": 70,
+    "experience": 30
+  },
+  "top_n": 5
+}

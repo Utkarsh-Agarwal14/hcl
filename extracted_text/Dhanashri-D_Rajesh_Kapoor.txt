@@ -1,0 +1,172 @@
+[Page 1]
+Rajesh Kapoor 
+
+ Automation & Controls Engineer 
+
+ rajesh.kapoor.automation@outlook.com | +91-9823-456789 | 547 Innovation Drive, Bangalore, Karnataka
+ 560001 
+
+ 
+
+ Professional Summary 
+
+ Results-driven Automation & Controls Engineer with 13+ years of experience designing, implementing, and
+
+ managing industrial automation solutions. Proven expertise in PLC/SCADA systems, DCS integration, and
+ process optimization. Demonstrated track record of reducing production downtime by 20%+ and leading
+ cross-functional teams. Seeking Senior Controls Engineer role to leverage automation expertise and mentor
+ next-gen engineers. 
+
+ 
+
+ Technical Skills 
+
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+
+ Text, Ladder Logic 
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+
+ Handling 
+
+ 
+ Work Experience 
+
+ 
+ Controls Engineer 
+
+ TechLogix Solutions | 2023 - 2026 
+
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+ manufacturing 
+
+ 
+ Senior Controls Engineer 
+ PowerTech Innovations | 2020 - 2022 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+[Page 2]
+(cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+ frameworks 
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ 
+ Lead Controls Engineer / Team Lead 
+
+ Innovate Automation Ltd. | 2016 - 2019 
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ (cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+ frameworks 
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ 
+ Lead Controls Engineer / Team Lead 
+ AutoDrive Corp. | 2010 - 2015 
+
+ (cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+ frameworks 
+
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+ Green Valley Institute of Technology 
+
+ Graduated: 2005 | GPA: 8.12/10 
+
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+ M.Tech in Control Systems 
+
+ Silver Oak Institute of Technology 
+
+ Graduated: 2007 | GPA: 7.57/10 
+ Relevant Coursework: Advanced Control Theory, Process Control, Real-time Systems
+
+ 
+
+ Certifications 
+
+ (cid:127) IEC 61131-3 PLC Programming Standard (2022) 
+
+ (cid:127) Industrial Safety Systems (SIL 2/3) Certificate (2023) 
+
+ (cid:127) SCADA Systems Administration Certified (2020)
+
+[Page 3]
+Projects 
+
+ 
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ 
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ 
+
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ rajesh.kapoor.automation@outlook.com 
+ +91-9823-456789 
+
+ 547 Innovation Drive, Bangalore, Karnataka 560001 
+
+ linkedin.com/in/rajesh-kapoor-tech 
+ github.com/rajeshkapoor-tech

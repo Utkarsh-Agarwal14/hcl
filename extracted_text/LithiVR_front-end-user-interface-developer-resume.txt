@@ -1,0 +1,57 @@
+[Page 1]
+Elowen Ridge 
+
+ Front End User Interface Developer 
+
+ e.ridge@email.com (123) 456-7890 Pasadena, CA LinkedIn 
+
+ 
+ WORK EXPERIENCE 
+
+ OpenX - Front End User Interface Developer 
+ 2023 - current Pasadena, CA
+ Redesigned the user interface of the main product using CSS3, which led to a 23% uplift in user satisfaction
+ ratings. 
+
+ Managed 216 Bitbucket repositories, ensuring proper repository structure and access control, leading to a
+ 58% decrease in unauthorized access incidents. 
+ Leveraged D3.js to build real-time monitoring tools for system performance, shrinking downtime by 19%.
+ Automated 140+ end-to-end test cases with Selenium, enhancing overall testing efficiency and reducing 58
+ hours of manual testing. 
+
+ 
+ Spokeo - Lead Front End Developer 
+ 2021 - 2023 Pasadena, CA
+ Conducted performance audits with Chrome DevTools, identifying memory leaks and slashing overall
+ application crashes by 24%. 
+
+ Revamped HTML5 form elements with validation techniques, leading to 43% downtick in submission errors.
+ Debugged and resolved complex front-end issues, cutting down the average bug resolution time by 11
+ hours and increasing system stability. 
+ Addressed performance bottlenecks early in the development cycle with Webpack’s performance hints,
+ resolving 19% of previously unidentified production issues. 
+
+ 
+ Art+Logic - UI Developer 
+ 2018 - 2021 Pasadena, CA
+ Employed JavaScript's event delegation to manage UI events, minimizing memory usage by 43% and
+ boosting application performance metrics by 27%. 
+
+ Outlined Figma's version history and branching to manage design iterations, maintaining a clear project
+ timeline for 8 long-term projects. 
+ Executed user research and usability testing on 9 projects, leading to a 22% hike in Net Promoter Score
+ (NPS) and a 11% decline in user-reported issues. 
+ Developed and launched 12 client websites using Bootstrap, lowering the average project turnaround time
+ from 7 weeks to 3 weeks. 
+
+ 
+
+ EDUCATION 
+ California Institute of Technology - Bachelor of Science, Computer Science 
+
+ 2014 - 2018 Pasadena, CA
+
+ 
+ SKILLS 
+
+ HTML5; CSS3; Vanilla JavaScript; Webpack; Bitbucket; D3.js; Figma; Chrome DevTools; Bootstrap; Selenium

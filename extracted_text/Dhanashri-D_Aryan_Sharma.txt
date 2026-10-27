@@ -1,0 +1,148 @@
+[Page 1]
+Aryan Sharma 
+
+ Automation Controls Engineer 
+
+ aryan.sharma.anonymized@outlook.com | +91-9044-123456 | 150 Innovation Lane, Gurugram, Uttar Pradesh
+ 370769 
+
+ LinkedIn Profile 
+
+ 
+ Professional Summary 
+
+ 
+ Experienced Automation Controls Engineer with 5 years of hands-on expertise in PLC programming, SCADA
+ systems, and industrial automation. Strong background in process control, electrical systems design, and
+
+ manufacturing environments. Committed to delivering robust, efficient automation solutions that optimize
+ production. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+
+ Work Experience 
+
+ Controls Engineer 
+
+ Techtronix Solutions | 2024 - 2026 
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+
+ 22% 
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ 
+ Senior Controls Engineer 
+ Global Fulfillment Corp | 2021 - 2023 
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+
+ 22%
+
+[Page 2]
+(cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ 
+ Controls Engineer 
+
+ Global Fulfillment Corp | 2019 - 2020 
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ 
+
+ Projects 
+
+ 
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across the production floor
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ 
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ 
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+ National Institute of Technology (NIT) 
+
+ Graduated: 2013 | GPA: 8.17/10 
+
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Industrial Safety Systems (SIL 2/3) Certificate (2023) 
+ (cid:127) IEC 61131-3 PLC Programming Standard (2022) 
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset
+
+[Page 3]
+(cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ Email: aryan.sharma.anonymized@outlook.com 
+
+ Phone: +91-9044-123456 
+
+ Address: 150 Innovation Lane, Gurugram, Uttar Pradesh 370769 
+ LinkedIn: LinkedIn Profile

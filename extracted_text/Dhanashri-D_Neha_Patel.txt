@@ -1,0 +1,193 @@
+[Page 1]
+Neha Patel 
+
+ Automation & Controls Engineer 
+
+ neha.patel.automation@protonmail.com | +91-9876-543210 | 123 Innovation Drive, Pune, Uttar Pradesh
+ 894584 
+
+ 
+
+ Professional Summary 
+
+ Results-driven Automation & Controls Engineer with 15+ years of experience designing, implementing, and
+
+ managing industrial automation solutions. Proven expertise in PLC/SCADA systems, DCS integration, and
+ process optimization. Demonstrated track record of reducing production downtime by 20%+ and leading
+ cross-functional teams. Seeking Senior Controls Engineer role to leverage automation expertise and mentor
+ next-gen engineers. 
+
+ 
+
+ Technical Skills 
+
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+
+ Text, Ladder Logic 
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+
+ Handling 
+ (cid:127) Electrical Systems: Circuit Design, Wiring, Power Systems 
+
+ 
+
+ Work Experience 
+
+ 
+ Controls Engineer 
+
+ TechOps Solutions | 2022 - 2026 
+ (cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+
+ frameworks 
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+ manufacturing 
+
+ 
+ Senior Controls Engineer 
+ AutoDynamics Corp | 2019 - 2021
+
+[Page 2]
+(cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+ frameworks 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+
+ manufacturing 
+
+ Lead Controls Engineer / Team Lead 
+
+ MotorsTech India | 2015 - 2018 
+
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+ manufacturing 
+
+ (cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+ frameworks 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ 
+ Lead Controls Engineer / Team Lead 
+
+ ElectroMech Solutions | 2009 - 2014 
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+
+ manufacturing 
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+
+ insights 
+ (cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+
+ frameworks 
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ 
+ Lead Controls Engineer / Team Lead 
+
+ ElectroMech Solutions | 2007 - 2008 
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+
+ (cid:127) Reduced engineering project delivery time by 25% through process standardization and automation
+ frameworks 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+
+ insights 
+
+ 
+
+ Education 
+
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology (NIT) | Graduated: 2003 | GPA: 7.32/10
+
+[Page 3]
+Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+ M.Tech in Control Systems 
+
+ Institute of Technology, Mumbai | Graduated: 2005 | GPA: 7.93/10 
+ Relevant Coursework: Advanced Control Theory, Process Control, Real-time Systems
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Allen-Bradley ControlLogix Programming Certification (2021) 
+
+ (cid:127) IEC 61131-3 PLC Programming Standard (2022) 
+ (cid:127) Industrial Safety Systems (SIL 2/3) Certificate (2023) 
+
+ 
+
+ Projects 
+
+ 
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+ Achievements 
+
+ 
+ (cid:127) Achievement 1 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+ (cid:127) Hindi
+
+[Page 4]
+Contact 
+
+ 
+ neha.patel.automation@protonmail.com 
+
+ +91-9876-543210 
+ 123 Innovation Drive, Pune, Uttar Pradesh 894584 
+
+ linkedin.com/in/neha-patel-automation 
+
+ github.com/neha-patel-automation

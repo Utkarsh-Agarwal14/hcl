@@ -1,0 +1,70 @@
+﻿file,status,method,characters,needs_review,output_file
+datasets\Dhanashri-D\Akash_Nair.pdf,SUCCESS,direct,5362,False,extracted_text\Dhanashri-D_Akash_Nair.txt
+datasets\Dhanashri-D\Akash_Rao.pdf,SUCCESS,direct,2321,False,extracted_text\Dhanashri-D_Akash_Rao.txt
+datasets\Dhanashri-D\Ananya_Patel.pdf,SUCCESS,direct,3463,False,extracted_text\Dhanashri-D_Ananya_Patel.txt
+datasets\Dhanashri-D\Ananya_Roy.pdf,SUCCESS,direct,4135,False,extracted_text\Dhanashri-D_Ananya_Roy.txt
+datasets\Dhanashri-D\Anjali_Reddy.pdf,SUCCESS,direct,2416,False,extracted_text\Dhanashri-D_Anjali_Reddy.txt
+datasets\Dhanashri-D\Arjun_Sharma.pdf,SUCCESS,direct,2278,False,extracted_text\Dhanashri-D_Arjun_Sharma.txt
+datasets\Dhanashri-D\Arun_Patel.pdf,SUCCESS,direct,2904,False,extracted_text\Dhanashri-D_Arun_Patel.txt
+datasets\Dhanashri-D\Aryan_Rao.pdf,SUCCESS,direct,3599,False,extracted_text\Dhanashri-D_Aryan_Rao.txt
+datasets\Dhanashri-D\Aryan_Rao_1.pdf,SUCCESS,direct,2502,False,extracted_text\Dhanashri-D_Aryan_Rao_1.txt
+datasets\Dhanashri-D\Aryan_Sharma.pdf,SUCCESS,direct,3926,False,extracted_text\Dhanashri-D_Aryan_Sharma.txt
+datasets\Dhanashri-D\Ashok_Gupta.pdf,SUCCESS,direct,4303,False,extracted_text\Dhanashri-D_Ashok_Gupta.txt
+datasets\Dhanashri-D\Ashok_Nair.pdf,SUCCESS,direct,4336,False,extracted_text\Dhanashri-D_Ashok_Nair.txt
+datasets\Dhanashri-D\Ashok_Sinha.pdf,SUCCESS,direct,4324,False,extracted_text\Dhanashri-D_Ashok_Sinha.txt
+datasets\Dhanashri-D\Atul_Gupta.pdf,SUCCESS,direct,4347,False,extracted_text\Dhanashri-D_Atul_Gupta.txt
+datasets\Dhanashri-D\Divya_Kapoor.pdf,SUCCESS,direct,2508,False,extracted_text\Dhanashri-D_Divya_Kapoor.txt
+datasets\Dhanashri-D\Divya_Kulkarni.pdf,SUCCESS,direct,3458,False,extracted_text\Dhanashri-D_Divya_Kulkarni.txt
+datasets\Dhanashri-D\Hemant_Kumar.pdf,SUCCESS,direct,2473,False,extracted_text\Dhanashri-D_Hemant_Kumar.txt
+datasets\Dhanashri-D\Isha_Bhat.pdf,SUCCESS,direct,4659,False,extracted_text\Dhanashri-D_Isha_Bhat.txt
+datasets\Dhanashri-D\Isha_Nair.pdf,SUCCESS,direct,3335,False,extracted_text\Dhanashri-D_Isha_Nair.txt
+datasets\Dhanashri-D\Kavya_Nair.pdf,SUCCESS,direct,3859,False,extracted_text\Dhanashri-D_Kavya_Nair.txt
+datasets\Dhanashri-D\Kavya_Rao.pdf,SUCCESS,direct,2947,False,extracted_text\Dhanashri-D_Kavya_Rao.txt
+datasets\Dhanashri-D\Kavya_Saxena.pdf,SUCCESS,direct,4385,False,extracted_text\Dhanashri-D_Kavya_Saxena.txt
+datasets\Dhanashri-D\Manish_Kulkarni.pdf,SUCCESS,direct,2286,False,extracted_text\Dhanashri-D_Manish_Kulkarni.txt
+datasets\Dhanashri-D\Meera_Saxena.pdf,SUCCESS,direct,4341,False,extracted_text\Dhanashri-D_Meera_Saxena.txt
+datasets\Dhanashri-D\Mohit_Bhatnagar.pdf,SUCCESS,direct,2927,False,extracted_text\Dhanashri-D_Mohit_Bhatnagar.txt
+datasets\Dhanashri-D\Mohit_Kumar.pdf,SUCCESS,direct,2422,False,extracted_text\Dhanashri-D_Mohit_Kumar.txt
+datasets\Dhanashri-D\Neha_Patel.pdf,SUCCESS,direct,5528,False,extracted_text\Dhanashri-D_Neha_Patel.txt
+datasets\Dhanashri-D\Nikhil_Bhat.pdf,SUCCESS,direct,3378,False,extracted_text\Dhanashri-D_Nikhil_Bhat.txt
+datasets\Dhanashri-D\Nikhil_Desai.pdf,SUCCESS,direct,5006,False,extracted_text\Dhanashri-D_Nikhil_Desai.txt
+datasets\Dhanashri-D\Nikhil_Kulkarni.pdf,SUCCESS,direct,3901,False,extracted_text\Dhanashri-D_Nikhil_Kulkarni.txt
+datasets\Dhanashri-D\Nisha_Reddy.pdf,SUCCESS,direct,2481,False,extracted_text\Dhanashri-D_Nisha_Reddy.txt
+datasets\Dhanashri-D\Pooja_Desai.pdf,SUCCESS,direct,2424,False,extracted_text\Dhanashri-D_Pooja_Desai.txt
+datasets\Dhanashri-D\Pooja_Singh.pdf,SUCCESS,direct,3433,False,extracted_text\Dhanashri-D_Pooja_Singh.txt
+datasets\Dhanashri-D\Rajesh_Kapoor.pdf,SUCCESS,direct,5028,False,extracted_text\Dhanashri-D_Rajesh_Kapoor.txt
+datasets\Dhanashri-D\Ritika_Kumar.pdf,SUCCESS,direct,2505,False,extracted_text\Dhanashri-D_Ritika_Kumar.txt
+datasets\Dhanashri-D\Ritika_Rao.pdf,SUCCESS,direct,2816,False,extracted_text\Dhanashri-D_Ritika_Rao.txt
+datasets\Dhanashri-D\Rohan_Gupta.pdf,SUCCESS,direct,3662,False,extracted_text\Dhanashri-D_Rohan_Gupta.txt
+datasets\Dhanashri-D\Rohan_Sinha.pdf,SUCCESS,direct,4712,False,extracted_text\Dhanashri-D_Rohan_Sinha.txt
+datasets\Dhanashri-D\Sakshi_Saxena.pdf,SUCCESS,direct,2546,False,extracted_text\Dhanashri-D_Sakshi_Saxena.txt
+datasets\Dhanashri-D\Sakshi_Singh.pdf,SUCCESS,direct,2569,False,extracted_text\Dhanashri-D_Sakshi_Singh.txt
+datasets\Dhanashri-D\Sameer_Menon.pdf,SUCCESS,direct,2903,False,extracted_text\Dhanashri-D_Sameer_Menon.txt
+datasets\Dhanashri-D\Sanjay_Desai.pdf,SUCCESS,direct,2540,False,extracted_text\Dhanashri-D_Sanjay_Desai.txt
+datasets\Dhanashri-D\Sanjay_Kapoor.pdf,SUCCESS,direct,4279,False,extracted_text\Dhanashri-D_Sanjay_Kapoor.txt
+datasets\Dhanashri-D\Sanjay_Nair.pdf,SUCCESS,direct,3646,False,extracted_text\Dhanashri-D_Sanjay_Nair.txt
+datasets\Dhanashri-D\Shilpa_Bhat.pdf,SUCCESS,direct,4948,False,extracted_text\Dhanashri-D_Shilpa_Bhat.txt
+datasets\Dhanashri-D\Shilpa_Menon.pdf,SUCCESS,direct,2270,False,extracted_text\Dhanashri-D_Shilpa_Menon.txt
+datasets\Dhanashri-D\Shruti_Kapoor.pdf,SUCCESS,direct,3489,False,extracted_text\Dhanashri-D_Shruti_Kapoor.txt
+datasets\Dhanashri-D\Suresh_Kapoor.pdf,SUCCESS,direct,2418,False,extracted_text\Dhanashri-D_Suresh_Kapoor.txt
+datasets\Dhanashri-D\Suresh_Singh.pdf,SUCCESS,direct,3463,False,extracted_text\Dhanashri-D_Suresh_Singh.txt
+datasets\Dhanashri-D\Vikram_Roy.pdf,SUCCESS,direct,4971,False,extracted_text\Dhanashri-D_Vikram_Roy.txt
+datasets\LithiVR\associate-front-end-developer-resume.pdf,SUCCESS,direct,2097,False,extracted_text\LithiVR_associate-front-end-developer-resume.txt
+datasets\LithiVR\entry-level-front-end-developer-resume.pdf,SUCCESS,direct,2284,False,extracted_text\LithiVR_entry-level-front-end-developer-resume.txt
+datasets\LithiVR\front-end-developer-intern-resume.pdf,SUCCESS,direct,2315,False,extracted_text\LithiVR_front-end-developer-intern-resume.txt
+datasets\LithiVR\front-end-developer.pdf,SUCCESS,direct,3257,False,extracted_text\LithiVR_front-end-developer.txt
+datasets\LithiVR\front-end-user-interface-developer-resume.pdf,SUCCESS,direct,2202,False,extracted_text\LithiVR_front-end-user-interface-developer-resume.txt
+datasets\LithiVR\Frontend Dev - 1.pdf,SUCCESS,direct,3316,False,extracted_text\LithiVR_Frontend Dev - 1.txt
+datasets\LithiVR\Frontend Dev - 2.pdf,SUCCESS,direct,2009,False,extracted_text\LithiVR_Frontend Dev - 2.txt
+datasets\LithiVR\Frontend Dev - 3.pdf,SUCCESS,direct,2011,False,extracted_text\LithiVR_Frontend Dev - 3.txt
+datasets\LithiVR\Frontend Dev - 4.pdf,SUCCESS,direct,1557,False,extracted_text\LithiVR_Frontend Dev - 4.txt
+datasets\LithiVR\Frontend Dev - 5.pdf,SUCCESS,direct,2230,False,extracted_text\LithiVR_Frontend Dev - 5.txt
+datasets\LithiVR\Full-Stack-Developer-Example-Free-Download.docx,SUCCESS,direct,1532,False,extracted_text\LithiVR_Full-Stack-Developer-Example-Free-Download.txt
+datasets\LithiVR\java-front-end-developer-resume.pdf,SUCCESS,direct,1891,False,extracted_text\LithiVR_java-front-end-developer-resume.txt
+datasets\LithiVR\JavaScript Resume -1.pdf,SUCCESS,direct,2523,False,extracted_text\LithiVR_JavaScript Resume -1.txt
+datasets\LithiVR\JavaScript Resume -2.pdf,SUCCESS,direct,2526,False,extracted_text\LithiVR_JavaScript Resume -2.txt
+datasets\LithiVR\JavaScript-sample-resume-1.docx,SUCCESS,direct,4346,False,extracted_text\LithiVR_JavaScript-sample-resume-1.txt
+datasets\LithiVR\JavaScript-sample-resume-2.docx,SUCCESS,direct,3989,False,extracted_text\LithiVR_JavaScript-sample-resume-2.txt
+datasets\LithiVR\junior-front-end-web-developer-resume.pdf,SUCCESS,direct,1839,False,extracted_text\LithiVR_junior-front-end-web-developer-resume.txt
+datasets\LithiVR\lead-front-end-developer-resume.pdf,SUCCESS,direct,2080,False,extracted_text\LithiVR_lead-front-end-developer-resume.txt
+datasets\LithiVR\Resume - 1.pdf,SUCCESS,direct,2771,False,extracted_text\LithiVR_Resume - 1.txt

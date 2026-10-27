@@ -1,0 +1,121 @@
+[Page 1]
+CM 
+
+ 
+
+ 
+ Charlotte May 
+
+ Experienced Frontend Developer 
+ john.smith@gmail.com London, UK 
+
+ Summary 
+
+ Experienced frontend developer proficient in JavaScript, React, and Vue with a strong focus on creating engaging and
+ user-friendly graphical user interfaces. Looking to join an innovative and dynamic team to further develop my skills and
+ contribute to exciting projects. 
+
+ 
+ Experience 
+ ABC Corp London, UK 
+
+ Senior Frontend Developer 2019 2022 
+ Developed and maintained engaging, user-friendly graphical user interfaces resulting in a 20% increase in user
+ engagement. 
+ • Designed and developed responsive UIs using React and Vue. 
+ • Collaborated with designers and back-end developers to ensure seamless integration of UI components.
+ • Optimized UI performance resulting in a 15% increase in page load speed. 
+ • Implemented automated testing and deployment processes, reducing production errors by 25%.
+
+ XYZ Inc New York, USA 
+ Frontend Developer 2017 2019 
+ Designed and developed intuitive and user-friendly interfaces for multiple web applications resulting in a 30% increase in
+ user satisfaction. 
+ • Developed UI components using React and Redux. 
+ • Collaborated with cross-functional teams to ensure consistency in UI design and functionality.
+ • Implemented accessibility standards resulting in a 20% increase in users with disabilities accessing the applications.
+ • Conducted user testing and implemented feedback resulting in a 10% increase in user engagement.
+
+ 123 Co Sydney, Australia
+ Web Developer 2015 2017 
+
+ Developed and maintained responsive websites for multiple clients resulting in a 15% increase in website traffic.
+ • Developed websites using HTML, CSS, JavaScript, and jQuery. 
+ • Implemented responsive design and cross-browser compatibility. 
+ • Conducted performance optimization resulting in a 20% increase in page load speed.
+ • Provided ongoing maintenance and support to clients. 
+
+ Strengths 
+
+  Efficient Coding k Team Collaboration G Problem Solving 
+ Consistently delivers high- Demonstrates strong teamwork Proactively identifies and solves
+ quality code with speed and and communication skills, complex technical problems,
+ accuracy, resulting in a 20% resulting in an average team resulting in a 25% reduction in
+ increase in project completion productivity increase of 15%. project bugs.
+ rate. 
+
+  
+
+ www.enhancv.com Powered by
+
+[Page 2]
+Education 
+
+ University of Sydney Sydney, Australia
+ Bachelor of Science in Computer Science 2011 2014 
+
+ 
+ Languages 
+
+ JavaScript Proficient React Proficient Vue Advanced 
+ Angular Intermediate TypeScript Advanced HTML5 Proficient 
+
+ CSS3 Proficient 
+
+ 
+ Skills 
+
+ UI/UX design Frontend development JavaScript frameworks Agile methodologies Responsive design
+ Cross-browser compatibility Version control systems 
+
+ Achievements 
+
+ & Developing a High-Traffic E- s Mentoring Junior Developers 
+ commerce Website Provided guidance and 
+ Led the frontend development mentorship to junior developers, 
+ team in building a robust e- resulting in their successful 
+ commerce website that handled completion of several high- 
+ over 100,000 daily users and profile projects and increased 
+ increased sales by 40%. team productivity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ www.enhancv.com Powered by

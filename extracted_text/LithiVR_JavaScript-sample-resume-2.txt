@@ -1,0 +1,66 @@
+NAME – UI Developer
+********@gmail.com | +91 xxxxxxxxxx 
+Summary
+I have over 7+ years experience in the areas of web development using HTML, CSS, JavaScript and jQuery. I have been involved in my current role with Sportkix for the last 1 year.
+I have good communication skills with ability to articulate and explain complex technical concepts. I am passionate to positively push the web development and user experience to next level, and hone my existing skills and competency to have the extra edge over the others.
+I enjoy working with people who are professional in their approach. I am proud of my teamwork and communication skills, as I believe these are key to delivering a successful end product. My continual development means I look forward to meeting people from all aspects and learning along the way.
+Elegantly implement page designs in standards-compliant dynamic XHTML and CSS.
+Proven expertise with: HTML, CSS, JavaScript, DOM, XML, AJAX.
+Basic knowledge of 508 compliance.
+Experience in making PDFs accessible.
+Have an eye for design and a heart for developing.
+Aesthetic appreciation for pixel level design requirements, Turn UX wireframes, prototypes, and pixel mockups into high-quality application interfaces.
+Build bullet-proof, standards-compliant HTML/CSS-based templates, with required JS interactions coded and tested.
+ Experience working in active code bases.
+Skills
+Prototype Creation.
+Unobtrusive JavaScript.
+Standards Based Front-End Web Development. 
+Zen Coding/Emmet | Cross Browser Compatibility.
+Usage of Div layouts.
+Semantic Markup.
+Responsive Design.
+Prototype Creation. | Requirement Gathering & Analysis.
+Coordination with multiple teams and clients across the globe.
+Dreamweaver/Notepad++/Sublime Text.
+Proficiencies
+Languages : XHTML/HTML, CSS2/CSS3, SCSS, JSON, JavaScript
+JS Frameworks: jQuery, jQuery UI, Underscore.js
+Tools: Firebug/Chrome Developer Tools/Dragon Fly/IE Developer Tool, Dreamweaver/Notepad++/Sublime Text, Photoshop(basic), Tortoise SVN/ IBM Clearcase
+Work Experience
+Front End JS Developer, COMPANY NAME
+August 2014 to Present, Mumbai, India
+Front-end web development using HTML, CSS(SCSS) and JavaScript (Angular.js)
+Co ordinate with the Robina team to understand requirements and API calls
+Sr. UI Developer, COMPANY NAME
+May 2011 to July 2014, Mumbai, India
+Front-end web development using HTML, CSS (SCSS) and JavaScript (jQuery, underscore.js)
+Effectively communicate with users from different LOBs to understand the requirements and build UIs based on it
+Co-ordinate with the VMD team to get the specifications for the requirements and meet deadlines for the deliverables
+Work with the production team to help them deploy the code to the production and assist with any hiccups during/after the scheduled release
+Serving as an SME and the go to guy for any UI related issues
+Train new UI Development team members.
+Web Developer, COMPANY NAME
+December 2010 to April 2011, Mumbai, India
+Front-end web development using HTML, CSS, JavaScript & JSP
+Co-ordinate with the Business Analyst and the Product Managers to comprehend the requirements and meet deadlines for deliverables
+Work hand in hand with the Java Developers to create dynamic pages based on the psds and requirement documents
+Lead UI developer for the ShoppersStop.com and BigAlsOnline.com
+Resident UI expert.
+Software Engineer, COMPANY NAME
+June 2008 to December 2010, Mumbai, India
+Front-end web development using HTML, CSS, JavaScript (jQuery, jQuery UI), JSP and PHP
+I was involved in a team of 2 for creating a web scraping tool to gather premium data for insurance policies
+The only UI Engineer from a team of 15 engineers
+Education
+MCA (Masters Of Computer Application) from Mumbai University with Distinction 
+B.Sc. (Computer Science) Mumbai University with Second Class
+
+Personal Details
+Name : ********
+DOB: DD_MM_YYYY
+Email: *******@gmail.com
+Address: 4/11, Jaya Nagar, Musapet, Hyderabad.
+Phone: +91 xxxxxxxxx
+Nationality: Indian
+Marital Status: Single

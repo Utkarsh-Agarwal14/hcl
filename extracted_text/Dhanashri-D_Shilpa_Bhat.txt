@@ -1,0 +1,168 @@
+[Page 1]
+Shilpa Bhat 
+
+ Senior Data Analyst 
+
+ shilpa.bhat@example.com | +91-9759-123456 | 111 Innovation Drive, Delhi, Haryana 707408
+
+ 
+ Professional Summary 
+
+ 
+ Senior Data Analyst with 12+ years of experience driving business decisions through advanced analytics and
+ machine learning. Expert in building enterprise analytics platforms, predictive models, and data-driven
+
+ insights. Proven leadership managing analytics teams and translating complex data into actionable strategies.
+ Passionate about leveraging data to optimize manufacturing operations and drive innovation.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+ Forecasting 
+
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+ (cid:127) ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision 
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Innovative Solutions Corp | 2021 - 2026 
+ (cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+
+ locations 
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ (cid:127) Published 2 peer-reviewed papers on manufacturing optimization in industry journals
+
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+ Senior Data Analyst 
+
+ Tech Dynamics Pvt Ltd | 2018 - 2020 
+
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+[Page 2]
+Lead Data Analyst / Team Lead 
+
+ Innovative Solutions Corp | 2013 - 2017 
+
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+ (cid:127) Published 2 peer-reviewed papers on manufacturing optimization in industry journals
+
+ Lead Data Analyst / Team Lead 
+
+ Automobile Solutions Ltd | 2011 - 2012 
+
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+ (cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+
+ locations 
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ (cid:127) Published 2 peer-reviewed papers on manufacturing optimization in industry journals
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+ Capital University / Coastal University | Graduated: 2006 | GPA: 7.85/10 
+
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ M.Tech / M.Sc in Data Science 
+ National Institute of Technology / Global Institute | Graduated: 2008 | GPA: 8.88/10
+
+ Relevant Coursework: Machine Learning, Statistical Learning, Big Data Systems 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Lean Six Sigma Green Belt (2022) 
+
+ 
+
+ Projects 
+
+ 
+ Predictive Maintenance ML Model 
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+ Supply Chain Analytics Platform 
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs
+
+[Page 3]
+Quality Analytics ETL Pipeline 
+
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ Production Analytics Dashboard 
+
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly 
+
+ 
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+ Contact 
+
+ 
+ shilpa.bhat@example.com 
+
+ +91-9759-123456 
+ 111 Innovation Drive, Delhi, Haryana 707408 
+
+ LinkedIn Profile 
+
+ GitHub Profile

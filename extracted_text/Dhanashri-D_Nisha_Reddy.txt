@@ -1,0 +1,96 @@
+[Page 1]
+Nisha Reddy 
+
+ Data Analyst 
+
+ nisha.reddy.data@fictionalmail.com | +91-9202-123456 | 215 Innovations Drive, Pune, Maharashtra 709530
+
+ 
+ Professional Summary 
+
+ 
+ Analytical professional with 2 years of experience in data analysis and reporting. Proficient in SQL, Excel, and
+ Tableau with growing skills in Python. Passionate about uncovering insights and supporting data-driven
+
+ decision-making in manufacturing environments. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Automotive Solutions Pvt Ltd | 2024 - 2026 
+
+ (cid:127) Assisted in creating SQL queries for supply chain visibility reporting
+ (cid:127) Built daily production KPI dashboards in Tableau tracking 30+ metrics across facilities
+
+ (cid:127) Performed data cleaning and validation on manufacturing datasets (100k+ records) improving accuracy
+ by 12% 
+
+ (cid:127) Generated weekly performance reports for production management improving decision turnaround by 2
+ days 
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+ Fictional University | Graduated: 2016 | GPA: 8.33/10 
+
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Projects
+
+[Page 2]
+Quality Analytics ETL Pipeline 
+
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ Production Analytics Dashboard 
+
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly 
+
+ 
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ nisha.reddy.data@fictionalmail.com 
+ +91-9202-123456 
+
+ 215 Innovations Drive, Pune, Maharashtra 709530 
+
+ LinkedIn Profile 
+ GitHub Profile

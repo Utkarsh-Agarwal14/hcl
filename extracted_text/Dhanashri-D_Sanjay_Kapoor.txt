@@ -1,0 +1,159 @@
+[Page 1]
+Sanjay Kapoor 
+
+ Automation & Controls Engineer 
+
+ sanjay.kapoor.tech@fakemail.com | +91-9876-543210 | 123 Innovation Lane, Chennai, Gujarat 485724
+
+ 
+ Professional Summary 
+
+ 
+ Results-driven Automation & Controls Engineer with 10+ years of experience designing, implementing, and
+ managing industrial automation solutions. Proven expertise in PLC/SCADA systems, DCS integration, and
+
+ process optimization. Demonstrated track record of reducing production downtime by 20%+ and leading
+ cross-functional teams. Seeking Senior Controls Engineer role to leverage automation expertise and mentor
+ next-gen engineers. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Basic Ladder Logic, Limited STL 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ 
+ Controls Engineer 
+ Delta Automation Solutions | 2023 - 2026 
+
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+ manufacturing 
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ 
+ Senior Controls Engineer 
+
+ Tech Innovations Ltd. | 2020 - 2022 
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+ manufacturing 
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+[Page 2]
+Lead Controls Engineer / Team Lead 
+
+ Pinnacle Automation Inc. | 2014 - 2019 
+
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+ manufacturing 
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+ National Institute of Technology (NIT) | Graduated: 2008 | GPA: 7.81/10 
+
+ M.Tech in Control Systems 
+
+ Indian Institute of Advanced Technology | Graduated: 2010 | GPA: 8.04/10 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Siemens SIMATIC Automation & Drives Certified (2022) 
+ (cid:127) IEC 61131-3 PLC Programming Standard (2022) 
+
+ (cid:127) Allen-Bradley ControlLogix Programming Certification (2021) 
+
+ 
+
+ Projects 
+
+ 
+ Motor Control & Protection System 
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+ Tractor Assembly Line Automation 
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+ SCADA System Integration 
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ 
+ Predictive Maintenance Logic
+
+[Page 3]
+(cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ sanjay.kapoor.tech@fakemail.com 
+
+ +91-9876-543210 
+
+ 123 Innovation Lane, Chennai, Gujarat 485724 
+ LinkedIn 
+
+ GitHub

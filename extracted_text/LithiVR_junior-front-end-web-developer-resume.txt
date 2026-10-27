@@ -1,0 +1,62 @@
+[Page 1]
+GRAYSON PRICE 
+
+ 
+
+ Junior Front End Web Developer 
+
+ 
+
+ CONTACT CAREER OBJECTIVE 
+
+ g.price@email.com Aspiring junior front-end web developer excited to contribute my skills and
+ enthusiasm to the dynamic team at WEBii. Committed to staying current
+ (123) 456-7890 
+ with the latest web development practices and offering responsive and
+ Austin, TX 
+ engaging web solutions for the company's diverse clientele.
+ LinkedIn 
+ WORK EXPERIENCE 
+ EDUCATION 
+ Restaurant Server 
+ Bachelor of Science 
+ BJ's Restaurant & Brewhouse 
+ Computer Science 
+ 2022 - current / Austin, TX 
+ University of Texas 
+ Upsold menu items, facilitating a $1,586 increase in sales in six
+ 2019 - 2023 
+ months 
+ Austin, TX 
+ Increased average check size by 9.8% with suggestive selling tactics
+ Cut down on member turnover by 16% in one year by promoting BJ's
+ Premier Rewards Program 
+ SKILLS 
+ Expedited banquet event order accuracy by using CaterEase for event
+ HTML5 planning and administration purposes 
+ CSS3 
+ TypeScript Library Assistant 
+ Bootstrap 
+ University of Texas 
+ GitHub 
+ 2021 - 2022 / Austin, TX 
+ WebStorm 
+ Spearheaded the digitization of 4.2K books using ABBYY FineReader
+ Yarn 
+ Bolstered return rates by 24% by implementing automated reminders
+ Webpack 
+ Collaborated on a team to host 12 reputable guest lecturers
+ Chrome DevTools 
+ Orchestrated a digital perusal system that shaved 15% off the time
+ InVision 
+ spent on finding relevant reference materials 
+ PROJECTS 
+ CodeCraft 
+ Research Team Member 
+ 2020 
+ Determined 51 instances in the codebase eligible for GitHub
+ workflow optimization 
+ Revealed a potential reduction of 33% in load times by leveraging
+ Webpack for bundling project assets 
+ Presented in weekly meetings 54 key insights derived from code
+ analysis, fostering a 24% improvement in strategy optimization

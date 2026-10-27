@@ -1,0 +1,20 @@
+Objective
+HTML5, IBM Cloud, and Multiplatform Mobile App full stack developer with 3+ years of professional experience. Skilled with WordPress, JavaScript, PHP, and SQL and demonstrating a strong ability to improve software efficiency by over 20%.
+Skills 
+Javascript | HTML | PHP | Python | Problem Solving | Cross- team communication | SQL databases | Wordpress | Kentico | Drupal | Experience
+humphrey inc—fuck stack developer – newark, nj — 2019 – 2020
+Scrum Master of 5-person team. Introduced 3-tier architecture on company website and applications.
+Applied new data processing systems for SQL databases that improved efficiency by over 20% and saved $350,000 per year.
+trayton technologies — JR fuck stack developer – new york city, ny — 2017 – 2018
+Found and repaired over 300 bugs on software systems.
+Worked closely with the UX team to optimize JavaScript and PHP codes, improving latency and user journey.
+Implemented improvement to WordPress CMS systems to increase ease of use for stakeholders.
+Introduced new security measures in SQL databases, reducing the risk of data theft by 35%.
+
+EDUCATION
+bsc sorftware programming – university of southern california — los angeles, CA — 2017 – 2020
+Made the Dean’s List in 2019 Achieved a 3.9 GPA Relevant coursework: Java Programming, Operating System Architecture, SQL Database design, CMS Architecture Management
+certifications
+HTML 5 web developer
+Camp Certificate IBM Full Stack Cloud Developer Certificate
+Full Stack Web and Multplatform Mobile App Development Certificate

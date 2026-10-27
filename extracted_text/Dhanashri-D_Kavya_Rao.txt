@@ -1,0 +1,123 @@
+[Page 1]
+Kavya Rao 
+
+ Automation Controls Engineer 
+
+ kavya.rao.engineer@fictionalmail.com | +91-9811-223344 | 15 Innovation Drive, Tech City, Telangana 500072
+
+ 
+ Professional Summary 
+
+ 
+ Experienced Automation Controls Engineer with 1 year of hands-on expertise in PLC programming, SCADA
+ systems, and industrial automation. Strong background in process control, electrical systems design, and
+
+ manufacturing environments. Committed to delivering robust, efficient automation solutions that optimize
+ production. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ 
+ Controls Engineer 
+ Global Motors Corporation | 2025 - 2026 
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology (NIT) 
+ Graduated: 2017 | GPA: 7.73/10 
+
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+[Page 2]
+Certifications 
+
+ 
+ (cid:127) SCADA Systems Administration Certified (2020) 
+
+ (cid:127) Siemens SIMATIC Automation & Drives Certified (2022) 
+
+ 
+ Projects 
+
+ 
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ 
+
+ Additional Competencies 
+
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+ Contact 
+
+ 
+ kavya.rao.engineer@fictionalmail.com 
+
+ +91-9811-223344 
+
+ 15 Innovation Drive, Tech City, Telangana 500072 
+ LinkedIn
+
+[Page 3]
+GitHub

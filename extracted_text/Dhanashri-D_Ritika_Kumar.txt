@@ -1,0 +1,108 @@
+[Page 1]
+Ritika Kumar 
+
+ Data Analyst 
+
+ ritika.kumar.12345@example.com | +91-9123-456789 | 15 Innovation Lane, Chennai, Gujarat 611823
+
+ 
+ Professional Summary 
+
+ 
+ Analytical professional with 1 years of experience in data analysis and reporting. Proficient in SQL, Excel, and
+ Tableau with growing skills in Python. Passionate about uncovering insights and supporting data-driven
+
+ decision-making in manufacturing environments. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Orion Manufacturing Solutions | 2025 - 2026 
+
+ (cid:127) Assisted in creating SQL queries for supply chain visibility reporting
+ (cid:127) Performed data cleaning and validation on manufacturing datasets (100k+ records) improving accuracy
+ by 12% 
+
+ (cid:127) Generated weekly performance reports for production management improving decision turnaround by 2
+ days 
+
+ (cid:127) Built daily production KPI dashboards in Tableau tracking 30+ metrics across facilities
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+ Eastern Institute of Technology / Western College of Science | Graduated: 2017 | GPA: 7.86/10
+
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Projects
+
+[Page 2]
+Predictive Maintenance ML Model 
+
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ Supply Chain Analytics Platform 
+
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Certification in Data Analysis 
+
+ (cid:127) Certification in SQL for Data Science 
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Achieved recognition for significant improvement in data accuracy 
+
+ 
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ ritika.kumar.12345@example.com 
+
+ +91-9123-456789 
+
+ 15 Innovation Lane, Chennai, Gujarat 611823 
+ LinkedIn Profile 
+
+ GitHub Profile

@@ -1,0 +1,67 @@
+[Page 1]
+First Last CONTACT 
+ __________________________
+ Front End Developer • Leeds, United Kingdom
+ • +44 1234567890 
+ • first.last@gmail.com
+ WORK EXPERIENCE 
+ ______________________________________________________________________ 
+ SKILLS 
+ Resume Worded,London, United Kingdom __________________________
+ Education technology startup with 50+ employees and $100m+ annual revenue 
+ Hard Skills: 
+ Front End Developer 08/2021 – Present • Debugging 
+ • Testing 
+ ● Developed an interactive map for a real estate company’s website that 
+ • CSS Preprocessing 
+ enabled 3600+ users to search preferred properties by the municipality. 
+ • Command Line 
+ ● Conducted routine updates, security patches, and other website maintenance • Troubleshooting
+ tasks; achieved a 93% optimal website performance. • Cross-Browser Development
+ ● Designed front-end code using HTML, CSS, JavaScript, jQuery to create a 
+ responsive web application that works across desktops, tablets, and 20+ Techniques:
+ other devices. • Web Development 
+ ● Hand-coded embedded stylesheets into 10+ Javascript interfaces and • Agile Methodologies
+ reduced load times by 75% in the first month of implementation. • Responsive Web Design
+ Polyhire,London, United Kingdom Tools and Software: 
+ NYSE-listed recruitment and employer branding company • TypeScript 
+ • Vue.js 
+ Web Content Editor 10/2019 – 07/2021 
+ • AJAX 
+ ● Edited numerous web content pieces supporting the marketing initiatives of • jQuery
+ Polyhire, maintaining 95% brand consistency and voice. 
+ Languages: 
+ ● Optimized 30+ key content pages for SEO objectives, which improved online
+ search-ranking accuracy by 63%. • English (Native) 
+ • Romanian (Native) 
+ ● Manipulated textual and graphic imagery to create website content that 
+ • Spanish (Conversational)
+ served the needs of 20+ marketing teams. 
+ ● Introduced an innovative document management system that saved $3200+ 
+ EDUCATION 
+ in monthly labor expenses by creating an editorial workflow that facilitated
+ __________________________
+ collaboration across 10+ geographies. 
+ University of New York
+ Growthsi,London, United Kingdom & Barcelona, Spain 
+ Associate of Applied Science
+ Career training and membership SaaS with 150,000 users Web Design & Development
+ New York City, New York
+ Java Web Developer 11/2018 – 09/2019 
+ 10/2011 - 06/2014 
+ ● Developed 40+ user-friendly web applications using the Spring framework 
+ library in the first month of employment. OTHER 
+ ● Created a document review application for civil litigation support, allowing ___________________________
+ >20K users to upload and view records. 
+ • Certified Web Professional
+ ● Designed a solution that integrated software mapping data of 840+ 
+ • Certified HTML, CSS,
+ merchants into the proprietary GPS tracking logbooks of Polyhire. 
+ JavaScript Web Developer
+ ● Integrated feedback from 2100+ beta testers during a site redesign based on
+ usability tests performed at branch offices of Polyhire. 
+ PREVIOUS EXPERIENCE 
+ ______________________________________________________________________ 
+ Web Analyst,ABC Company, London, UK 06/2017 – 10/2018 
+ Java Consultant,XYZ Company, New York, USA 01/2016– 05/2017 
+ Web UI Developer (Internship),ABC, New York, USA 07/2014 – 12/2015

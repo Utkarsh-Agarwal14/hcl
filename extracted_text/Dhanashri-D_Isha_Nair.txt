@@ -1,0 +1,123 @@
+[Page 1]
+Isha Nair 
+
+ Data Analyst 
+
+ isha.nair.53802@example.com | +91-9732-656735 | 261 Tech Park, Bangalore, West Bengal 871232
+
+ 
+ Professional Summary 
+
+ 
+ Data Analyst with 4 years of experience in manufacturing analytics, BI, and SQL optimization. Skilled in
+ Tableau/Power BI dashboard development, statistical analysis, and Python-based data science. Driven by
+
+ solving complex business problems through data and delivering insights that impact operations.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+ (cid:127) Business: Finance, Business Acumen, Stakeholder Management 
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ TechMotive Corporation | 2024 - 2026 
+ (cid:127) Spearheaded data quality initiative cleaning and validating 15 critical datasets
+
+ (cid:127) Created interactive Power BI dashboards reducing reporting time from 8h/week to 1h/week
+
+ (cid:127) Mentored 2 junior analysts on SQL optimization and BI best practices
+ (cid:127) Designed and deployed enterprise data warehouse supporting 50+ production analysts (Snowflake,
+ 2TB+ data) 
+
+ 
+ Senior Data Analyst 
+
+ InnovaTech Solutions | 2021 - 2023 
+ (cid:127) Spearheaded data quality initiative cleaning and validating 15 critical datasets
+
+ (cid:127) Developed predictive model for equipment failure detection achieving 87% accuracy (Python,
+ scikit-learn) 
+
+ (cid:127) Created interactive Power BI dashboards reducing reporting time from 8h/week to 1h/week
+
+ (cid:127) Mentored 2 junior analysts on SQL optimization and BI best practices
+
+[Page 2]
+Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ Northern Institute of Technology / Bayview University | Graduated: 2014 | GPA: 8.10/10
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+
+ Certifications 
+
+ (cid:127) Tableau Desktop Specialist (2022) 
+
+ 
+
+ Projects 
+
+ 
+ Production Analytics Dashboard 
+
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly 
+
+ 
+ Quality Analytics ETL Pipeline 
+
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ 
+ Predictive Maintenance ML Model 
+
+ (cid:127) Developed ML model predicting equipment failures using historical data
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ isha.nair.53802@example.com 
+ +91-9732-656735 
+
+ 261 Tech Park, Bangalore, West Bengal 871232 
+
+ linkedin.com/in/isha-nair-9999
+
+[Page 3]
+github.com/isha-nair-portfolio

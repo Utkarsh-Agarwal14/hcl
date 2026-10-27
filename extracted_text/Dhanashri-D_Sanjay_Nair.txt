@@ -1,0 +1,138 @@
+[Page 1]
+Sanjay Nair 
+
+ Automation Controls Engineer 
+
+ sanjay.nair.automation@mail.com | +91-9123-456789 | 45 Automation Lane, Bangalore, Karnataka 560001
+
+ 
+ Professional Summary 
+
+ 
+ Experienced Automation Controls Engineer with 6 years of hands-on expertise in PLC programming, SCADA
+ systems, and industrial automation. Strong background in process control, electrical systems design, and
+
+ manufacturing environments. Committed to delivering robust, efficient automation solutions that optimize
+ production. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ (cid:127) Electrical Systems: Circuit Design, Wiring, Power Systems 
+
+ 
+
+ Work Experience 
+
+ Controls Engineer 
+
+ Innovative Auto Solutions Pvt. Ltd. | 2023 - 2026 
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ 
+ Senior Controls Engineer 
+ TechDrive Automation Pvt. Ltd. | 2019 - 2022 
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+[Page 2]
+(cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology (NIT) | Graduated: 2012 | GPA: 7.11/10 
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Industrial Safety Systems (SIL 2/3) Certificate (2023) 
+
+ (cid:127) Siemens SIMATIC Automation & Drives Certified (2022) 
+ (cid:127) Allen-Bradley ControlLogix Programming Certification (2021) 
+
+ 
+
+ Projects 
+
+ 
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages
+
+[Page 3]
+(cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ 
+ sanjay.nair.automation@mail.com 
+ +91-9123-456789 
+
+ 45 Automation Lane, Bangalore, Karnataka 560001 
+ linkedin.com/in/sanjay-nair-proengineer 
+
+ github.com/sanjay-nair-automation

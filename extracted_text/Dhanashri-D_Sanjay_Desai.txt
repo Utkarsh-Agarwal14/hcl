@@ -1,0 +1,109 @@
+[Page 1]
+Sanjay Desai 
+
+ Data Analyst 
+
+ sanjay.desai.92255@fakemail.com | +91-9437-123456 | 284 Tech Park, Ahmedabad, Haryana 448950
+
+ 
+ Professional Summary 
+
+ 
+ Analytical professional with 1 year of experience in data analysis and reporting. Proficient in SQL, Excel, and
+ Tableau with growing skills in Python. Passionate about uncovering insights and supporting data-driven
+
+ decision-making in manufacturing environments. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ TechCorp Solutions | 2025 - 2026 
+
+ (cid:127) Built daily production KPI dashboards in Tableau tracking 30+ metrics across facilities
+ (cid:127) Generated weekly performance reports for production management improving decision turnaround by 2
+ days 
+
+ (cid:127) Assisted in creating SQL queries for supply chain visibility reporting
+
+ (cid:127) Performed data cleaning and validation on manufacturing datasets (100k+ records) improving accuracy
+ by 12% 
+
+ 
+
+ Projects 
+
+ 
+ Predictive Maintenance ML Model 
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+ Quality Analytics ETL Pipeline 
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+[Page 2]
+(cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ New Delhi Institute of Technology / Mumbai Institute of Science | Graduated: 2017 | GPA: 8.49/10
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Lean Six Sigma Green Belt 
+
+ (cid:127) Tableau Desktop Specialist 
+
+ 
+
+ Achievements 
+
+ (cid:127) Spearheaded a team project that resulted in a 15% increase in production efficiency
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ sanjay.desai.92255@fakemail.com 
+
+ +91-9437-123456 
+
+ 284 Tech Park, Ahmedabad, Haryana 448950 
+ linkedin.com/in/sanjay-desai-1234 
+
+ github.com/sanjaydesai1234
