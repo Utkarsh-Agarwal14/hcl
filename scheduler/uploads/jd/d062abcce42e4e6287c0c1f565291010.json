@@ -1,0 +1,25 @@
+{
+  "job_title": "Data Analyst",
+  "location": "India",
+  "location_policy": "preferred",
+  "minimum_experience_years": 2,
+  "required_skills": [
+    "SQL",
+    "Python",
+    "Excel",
+    "Data Visualization",
+    "Statistics"
+  ],
+  "preferred_skills": [
+    "Power BI",
+    "Tableau",
+    "Pandas",
+    "A/B Testing",
+    "Git"
+  ],
+  "weights": {
+    "skills": 60,
+    "experience": 40
+  },
+  "top_n": 5
+}

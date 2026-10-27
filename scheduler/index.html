@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Auto-Scheduler</title>
+<style>
+:root{
+  --ink:#101828; --mute:#566176; --line:#c7cfdb; --bg:#f3f5f9; --card:#fff;
+  --blue:#2447d6; --blue-soft:#e6ebfc; --green:#0f7a4d; --green-soft:#def3e8;
+  --amber:#8a5200; --amber-soft:#fdf0d5; --red:#b42318; --red-soft:#fde4e1;
+  --sans:"Avenir Next","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--sans)}
+h1,h2,h3{line-height:1.15;letter-spacing:-.02em;margin:0}
+h1{font-size:clamp(2rem,5vw,3.4rem);font-weight:800}
+h2{font-size:1.6rem;font-weight:750;margin-bottom:1rem}
+h3{font-size:1.2rem;font-weight:700}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+#top{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.9rem clamp(1rem,4vw,3rem);background:var(--ink);color:#fff}
+.brand{font-weight:800;letter-spacing:-.01em;cursor:pointer}
+#top nav{display:flex;align-items:center;gap:1.2rem;flex-wrap:wrap}
+#top a{cursor:pointer;color:#cfd7ea}
+#top a:hover{color:#fff;text-decoration:underline}
+.who{color:#9fb0d6;font-size:.9rem}
+main{max-width:1000px;margin:0 auto;padding:2rem clamp(1rem,4vw,2rem) 4rem}
+.lede{max-width:46ch;color:var(--mute);font-size:1.15rem;margin:1rem 0 2rem}
+.btn{background:var(--blue);color:#fff;border:0;border-radius:3px;padding:.65rem 1.2rem;font-weight:650;cursor:pointer}
+.btn:hover{background:#1b38b0}
+.btn:disabled{opacity:.55;cursor:wait}
+.btn.sm{padding:.35rem .8rem;font-size:.9rem}
+.btn.green{background:var(--green)} .btn.red{background:var(--red)}
+.ghost{background:none;border:1.5px solid currentColor;border-radius:3px;padding:.3rem .8rem;cursor:pointer;color:#fff}
+.link{background:none;border:0;padding:0;color:var(--blue);text-decoration:underline;cursor:pointer}
+.entry{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;max-width:720px}
+.door{text-align:left;background:var(--card);border:2px solid var(--ink);border-radius:3px;padding:1.3rem;cursor:pointer;display:flex;flex-direction:column;gap:.3rem}
+.door b{font-size:1.2rem}.door span{color:var(--mute)}
+.door:hover{background:var(--blue-soft);border-color:var(--blue)}
+.panel{background:var(--card);border:1.5px solid var(--ink);border-radius:3px;padding:1.5rem}
+.narrow{max-width:440px}
+.tabs{display:flex;gap:0;margin:-1.5rem -1.5rem 1.2rem;border-bottom:1.5px solid var(--ink);flex-wrap:wrap}
+.tabs button{flex:1;background:none;border:0;padding:.8rem 1rem;cursor:pointer;font-weight:650;color:var(--mute);white-space:nowrap}
+.tabs button.on{background:var(--ink);color:#fff}
+.tabs.wide{margin:0 0 1.2rem;border:1.5px solid var(--ink);border-radius:3px;overflow:hidden}
+form.stack{display:flex;flex-direction:column;gap:1rem}
+label{display:flex;flex-direction:column;gap:.3rem;font-weight:600;font-size:.95rem}
+input,select{border:1.5px solid var(--line);border-radius:3px;padding:.55rem .7rem;background:#fff;font-weight:400;width:100%}
+input[readonly]{background:var(--bg);color:var(--mute)}
+fieldset{border:1.5px solid var(--line);border-radius:3px;padding:1rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:0}
+legend{font-weight:650;padding:0 .4rem}
+.hint{font-weight:400;color:var(--mute);font-size:.85rem}
+.bar{display:flex;align-items:center;gap:1rem;margin-bottom:1.2rem;flex-wrap:wrap}
+.bar label{flex-direction:row;align-items:center;gap:.6rem}.bar select{width:auto;min-width:200px}
+/* job cards: outlined rectangle with a calendar leaf for the deadline */
+.job{display:grid;grid-template-columns:auto 1fr auto;gap:1.2rem;align-items:center;background:var(--card);border:2px solid var(--ink);border-radius:3px;padding:1rem 1.2rem;margin-bottom:1rem}
+.job.closed{border-color:var(--line);color:var(--mute)}
+.co{font-weight:650;color:var(--blue)} .closed .co{color:var(--mute)}
+.meta{color:var(--mute);font-size:.92rem;margin:.2rem 0 .4rem}
+.leaf{width:64px;text-align:center;border:1.5px solid var(--ink);border-radius:3px;overflow:hidden;line-height:1}
+.leaf .m{display:block;background:var(--red);color:#fff;font-size:.75rem;font-weight:700;padding:.25rem 0}
+.leaf .d{display:block;font-size:1.7rem;font-weight:800;padding:.4rem 0}
+.leaf.shut{border-color:var(--line)}.leaf.shut .m{background:var(--mute)}
+.tag{display:inline-block;padding:.25rem .7rem;border-radius:3px;font-weight:650;font-size:.9rem;border:1.5px solid}
+.tag.closed{color:var(--red);border-color:var(--red);background:var(--red-soft)}
+.tag.applied{color:var(--green);border-color:var(--green);background:var(--green-soft)}
+.chip{display:inline-block;padding:.2rem .6rem;border-radius:3px;font-weight:650;font-size:.88rem;border:1.5px solid}
+.chip.prog{color:var(--blue);background:var(--blue-soft)}
+.chip.ok{color:var(--green);background:var(--green-soft)}
+.chip.rej{color:var(--red);background:var(--red-soft)}
+.chip.ref{color:var(--amber);background:var(--amber-soft)}
+.app{background:var(--card);border:1.5px solid var(--ink);border-radius:3px;padding:1rem 1.2rem;margin-bottom:1rem;display:grid;gap:.4rem}
+.app .top{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;align-items:center}
+.slot{font-weight:700;font-size:1.1rem}
+.scroll{overflow-x:auto;background:var(--card);border:1.5px solid var(--ink);border-radius:3px}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:.65rem .8rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--bg);font-weight:700;white-space:nowrap}
+td .sub{color:var(--mute);font-size:.85rem}
+td .acts{display:flex;gap:.4rem;flex-wrap:wrap}
+.empty{padding:2rem;border:1.5px dashed var(--line);border-radius:3px;color:var(--mute);text-align:center}
+#toast{position:fixed;left:50%;bottom:1.5rem;transform:translateX(-50%);max-width:90vw;padding:.7rem 1.1rem;border-radius:3px;background:var(--ink);color:#fff;font-weight:600;display:none;z-index:9}
+#toast.bad{background:var(--red)}
+.back{margin-bottom:1rem;display:inline-block}
+@media(max-width:620px){.job{grid-template-columns:auto 1fr}.job .act{grid-column:1/-1}fieldset{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header id="top"></header>
+<main id="app"></main>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+const $app = document.getElementById('app');
+let session = JSON.parse(localStorage.getItem('session') || 'null');
+let poll, jobsCache = [];
+
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmtDate = d => new Date(d + 'T00:00:00').toLocaleDateString('en-IN', {weekday:'short', day:'numeric', month:'short', year:'numeric'});
+const fmtDT = d => new Date(d).toLocaleString('en-IN', {day:'numeric', month:'short', year:'numeric', hour:'numeric', minute:'2-digit'});
+const hm = t => t.slice(0, 5);
+const STATUS = {
+  IN_PROGRESS: ['In progress', 'prog'], REJECTED: ['Rejected', 'rej'],
+  INTERVIEW_SCHEDULED: ['Interview scheduled', 'ok'], REFERRED_TO_HR: ['Referred to HR for manual review', 'ref']
+};
+const chip = s => `<span class="chip ${STATUS[s][1]}">${STATUS[s][0]}</span>`;
+
+function toast(msg, bad) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.className = bad ? 'bad' : ''; t.style.display = 'block';
+  clearTimeout(toast.h); toast.h = setTimeout(() => t.style.display = 'none', 4000);
+}
+
+async function api(path, o = {}) {
+  const headers = {}; let body;
+  if (session) headers.Authorization = 'Bearer ' + session.token;
+  if (o.json) { headers['Content-Type'] = 'application/json'; body = JSON.stringify(o.json); }
+  if (o.form) body = o.form;
+  const r = await fetch('/api' + path, {method: o.method || (body ? 'POST' : 'GET'), headers, body});
+  if (r.status === 401 && session) { logout(); throw new Error('Session expired. Log in again'); }
+  if (o.blob) { if (!r.ok) throw new Error('Download failed'); return r.blob(); }
+  const d = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(typeof d.detail === 'string' ? d.detail : 'Check the form and try again');
+  return d;
+}
+
+async function download(path, name) {
+  try {
+    const b = await api(path, {blob: true});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(b); a.download = name; a.click();
+    URL.revokeObjectURL(a.href);
+  } catch (e) { toast(e.message, true); }
+}
+
+function bind(form, fn) {
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    const b = form.querySelector('button[type=submit]'); b.disabled = true;
+    try { await fn(new FormData(form)); } catch (err) { toast(err.message, true); } finally { b.disabled = false; }
+  });
+}
+
+function setSession(d) { session = d; localStorage.setItem('session', JSON.stringify(d)); }
+function logout() { session = null; localStorage.removeItem('session'); go('home'); }
+
+function header() {
+  const links = session?.role === 'candidate'
+    ? `<a data-go="jobs">Open roles</a><a data-go="myapps">My applications</a>` : '';
+  document.getElementById('top').innerHTML =
+    `<div class="brand" data-go="${session ? (session.role === 'hr' ? 'hr' : 'jobs') : 'home'}">Auto-Scheduler</div>
+     <nav>${links}${session ? `<span class="who">${esc(session.name)}</span><button class="ghost" id="logout">Log out</button>` : ''}</nav>`;
+}
+
+document.addEventListener('click', e => {
+  if (e.target.id === 'logout') return logout();
+  const el = e.target.closest('[data-go]');
+  if (el) go(el.dataset.go, el.dataset.arg);
+});
+
+async function go(view, arg) {
+  clearTimeout(poll);
+  const needs = {jobs:'candidate', apply:'candidate', myapps:'candidate', hr:'hr'};
+  if (needs[view] && session?.role !== needs[view]) view = 'home';
+  header();
+  try { await views[view](arg); } catch (e) { toast(e.message, true); }
+  window.scrollTo(0, 0);
+}
+
+/* ---------------- public views ---------------- */
+const views = {};
+
+views.home = () => {
+  $app.innerHTML = `
+  <section>
+    <h1>Apply once.<br>Get your interview slot.</h1>
+    <p class="lede">Pick three dates that suit you. The scheduler books the first one a panelist can take.</p>
+    <div class="entry">
+      <button class="door" data-go="candAuth"><b>I'm a candidate</b><span>Register or log in to apply for open roles</span></button>
+      <button class="door" data-go="hrLogin"><b>I'm in HR</b><span>Log in to post roles and review applications</span></button>
+    </div>
+  </section>`;
+};
+
+views.candAuth = (tab = 'login') => {
+  const login = `<form class="stack" id="f">
+      <label>Username<input name="username" required autocomplete="username"></label>
+      <label>Password<input name="password" type="password" required autocomplete="current-password"></label>
+      <button class="btn" type="submit">Log in</button></form>`;
+  const reg = `<form class="stack" id="f">
+      <label>Email<input name="email" type="email" required autocomplete="email"></label>
+      <label>Username<input name="username" required minlength="3" maxlength="50" pattern="[A-Za-z0-9_]+" autocomplete="username"><span class="hint">Letters, digits and underscores</span></label>
+      <label>Password<input name="password" type="password" required minlength="8" maxlength="72" autocomplete="new-password"><span class="hint">At least 8 characters</span></label>
+      <button class="btn" type="submit">Create account</button></form>`;
+  $app.innerHTML = `<section class="panel narrow">
+    <div class="tabs"><button class="${tab === 'login' ? 'on' : ''}" data-go="candAuth" data-arg="login">Log in</button>
+    <button class="${tab === 'register' ? 'on' : ''}" data-go="candAuth" data-arg="register">Register</button></div>
+    ${tab === 'login' ? login : reg}</section>`;
+  bind(document.getElementById('f'), async fd => {
+    const body = Object.fromEntries(fd);
+    setSession(await api('/auth/candidate/' + tab, {json: body}));
+    go('jobs');
+  });
+};
+
+views.hrLogin = () => {
+  $app.innerHTML = `<section class="panel narrow"><h2>HR login</h2>
+    <form class="stack" id="f">
+      <label>Login ID<input name="login_id" required autocomplete="username"></label>
+      <label>Password<input name="password" type="password" required autocomplete="current-password"></label>
+      <button class="btn" type="submit">Log in</button></form></section>`;
+  bind(document.getElementById('f'), async fd => {
+    setSession(await api('/auth/hr/login', {json: Object.fromEntries(fd)}));
+    go('hr');
+  });
+};
+
+/* ---------------- candidate ---------------- */
+views.jobs = async () => {
+  jobsCache = await api('/jobs');
+  const roles = [...new Set(jobsCache.map(j => j.job_title))].sort();
+  $app.innerHTML = `<h2>Open roles</h2>
+    <div class="bar"><label>Filter by role
+      <select id="role"><option value="">All roles</option>${roles.map(r => `<option>${esc(r)}</option>`).join('')}</select></label></div>
+    <div id="list"></div>`;
+  const list = document.getElementById('list');
+  const draw = () => {
+    const r = document.getElementById('role').value;
+    const rows = jobsCache.filter(j => !r || j.job_title === r);
+    list.innerHTML = rows.length ? rows.map(j => {
+      const dl = new Date(j.deadline);
+      const act = !j.is_open ? `<span class="tag closed">Application closed</span>`
+        : j.applied ? `<span class="tag applied">Applied</span>`
+        : `<button class="btn" data-go="apply" data-arg="${j.job_id}">Apply Now</button>`;
+      return `<article class="job ${j.is_open ? '' : 'closed'}">
+        <div class="leaf ${j.is_open ? '' : 'shut'}" title="Deadline"><span class="m">${dl.toLocaleString('en-IN', {month:'short'})}</span><span class="d">${dl.getDate()}</span></div>
+        <div><div class="co">${esc(j.company_name)}</div><h3>${esc(j.job_title)}</h3>
+          <div class="meta">Applications close ${fmtDT(j.deadline)}</div>
+          <button class="link" data-jd="${j.job_id}" data-name="${esc(j.company_name + '_' + j.job_title)}_JD${esc(j.jd_ext || '')}">Download job description</button></div>
+        <div class="act">${act}</div></article>`;
+    }).join('') : `<div class="empty">No roles match this filter.</div>`;
+  };
+  document.getElementById('role').onchange = draw;
+  list.onclick = e => { const b = e.target.closest('[data-jd]'); if (b) download('/files/jd/' + b.dataset.jd, b.dataset.name); };
+  draw();
+};
+
+views.apply = async id => {
+  id = +id;
+  if (!jobsCache.length) jobsCache = await api('/jobs');
+  const j = jobsCache.find(x => x.job_id === id);
+  if (!j || !j.is_open || j.applied) return go('jobs');
+  const dates = await api(`/jobs/${id}/dates`);
+  const opts = `<option value="">Select a date</option>` + dates.map(d => `<option value="${d}">${fmtDate(d)}</option>`).join('');
+  $app.innerHTML = `<a class="link back" data-go="jobs">Back to open roles</a>
+  <section class="panel narrow" style="max-width:560px">
+    <div class="co">${esc(j.company_name)}</div><h2>Apply for ${esc(j.job_title)}</h2>
+    ${dates.length < 3 ? `<div class="empty">Fewer than three interview dates are open for this role right now. Check back soon.</div>` : `
+    <form class="stack" id="f">
+      <label>Full name<input name="full_name" required maxlength="100" autocomplete="name"></label>
+      <label>Resume<input name="resume" type="file" accept=".pdf,.docx" required><span class="hint">PDF or DOCX, up to 5 MB</span></label>
+      <label>Contact number<input name="contact_number" type="tel" required pattern="\\+?[0-9]{10,15}" title="10 to 15 digits, optional leading +" autocomplete="tel"></label>
+      <label>Contact email<input name="contact_email" type="email" required autocomplete="email"></label>
+      <label>First preference<select class="pref" name="pref1" required>${opts}</select></label>
+      <label>Second preference<select class="pref" name="pref2" required>${opts}</select></label>
+      <label>Third preference<select class="pref" name="pref3" required>${opts}</select></label>
+      <button class="btn" type="submit">Submit application</button>
+    </form>`}</section>`;
+  const sels = [...document.querySelectorAll('.pref')];
+  const sync = () => { const chosen = sels.map(s => s.value);
+    sels.forEach(s => [...s.options].forEach(o => o.disabled = !!o.value && chosen.includes(o.value) && s.value !== o.value)); };
+  sels.forEach(s => s.onchange = sync);
+  const f = document.getElementById('f');
+  if (f) bind(f, async fd => {
+    await api(`/jobs/${id}/apply`, {form: fd});
+    toast('Application submitted');
+    jobsCache = [];
+    go('myapps');
+  });
+};
+
+views.myapps = async () => {
+  const rows = await api('/my/applications');
+  $app.innerHTML = `<h2>My applications</h2>` + (rows.length ? rows.map(a => {
+    let extra = '';
+    if (a.status === 'INTERVIEW_SCHEDULED') {
+      extra = `<div class="slot">${fmtDate(a.interview_date)}, ${hm(a.start_time)} to ${hm(a.end_time)}</div>
+        <div class="meta">${a.preference_rank ? `This is your preference ${a.preference_rank}.` : 'Your chosen dates were full, so this is the earliest open slot.'}</div>`;
+    } else if (a.status === 'REFERRED_TO_HR') extra = `<div class="meta">HR will review your application and update this page.</div>`;
+    else if (a.status === 'IN_PROGRESS') extra = `<div class="meta">Your application is being screened. This page updates automatically.</div>`;
+    return `<article class="app"><div class="top"><div><div class="co">${esc(a.company_name)}</div><h3>${esc(a.role)}</h3></div>${chip(a.status)}</div>${extra}</article>`;
+  }).join('') : `<div class="empty">You have not applied to any role yet.<br><br><button class="btn" data-go="jobs">Browse open roles</button></div>`);
+  if (rows.some(a => a.status === 'IN_PROGRESS')) poll = setTimeout(() => go('myapps'), 4000);
+};
+
+/* ---------------- HR ---------------- */
+views.hr = async (tab = 'post') => {
+  const tabs = [['post', 'Post a job'], ['jobs', 'My jobs'], ['review', 'Needs review'], ['all', 'All applications']];
+  $app.innerHTML = `<h2>${esc(session.company_name)}</h2>
+    <div class="tabs wide">${tabs.map(([k, l]) => `<button class="${k === tab ? 'on' : ''}" data-go="hr" data-arg="${k}">${l}</button>`).join('')}</div>
+    <div id="body"></div>`;
+  const body = document.getElementById('body');
+
+  if (tab === 'post') {
+    body.innerHTML = `<section class="panel" style="max-width:620px"><form class="stack" id="f">
+      <label>Company name<input value="${esc(session.company_name)}" readonly></label>
+      <label>Job title<input name="job_title" required maxlength="150"></label>
+      <label>Job description<input name="jd" type="file" accept=".pdf,.docx" required><span class="hint">PDF or DOCX, up to 5 MB</span></label>
+      <label>Application deadline<input name="deadline" type="datetime-local" required></label>
+      <fieldset><legend>Interview window</legend>
+        <label>First interview day<input name="interview_start_date" type="date" required></label>
+        <label>Last interview day<input name="interview_end_date" type="date" required></label>
+        <label>Daily start time<input name="daily_start_time" type="time" value="10:00" required></label>
+        <label>Daily end time<input name="daily_end_time" type="time" value="17:00" required></label>
+      </fieldset>
+      <button class="btn" type="submit">Post job</button></form></section>`;
+    bind(document.getElementById('f'), async fd => {
+      await api('/hr/jobs', {form: fd});
+      toast('Job posted');
+      go('hr', 'jobs');
+    });
+  } else if (tab === 'jobs') {
+    const rows = await api('/hr/jobs');
+    body.innerHTML = rows.length ? `<div class="scroll"><table><tr><th>Role</th><th>Deadline</th><th>Interview window</th><th>Applicants</th><th>Status</th><th></th></tr>
+      ${rows.map(j => `<tr><td><b>${esc(j.job_title)}</b></td><td>${fmtDT(j.deadline)}</td>
+        <td>${fmtDate(j.interview_start_date)} to ${fmtDate(j.interview_end_date)}<div class="sub">${hm(j.daily_start_time)} to ${hm(j.daily_end_time)} daily</div></td>
+        <td>${j.applicants}</td><td>${j.is_open ? '<span class="chip ok">Open</span>' : '<span class="chip rej">Closed</span>'}</td>
+        <td><button class="link" data-jd="${j.job_id}" data-name="${esc(j.job_title)}_JD${esc(j.jd_ext || '')}">Job description</button></td></tr>`).join('')}
+      </table></div>` : `<div class="empty">No jobs posted yet.</div>`;
+    body.onclick = e => { const b = e.target.closest('[data-jd]'); if (b) download('/files/jd/' + b.dataset.jd, b.dataset.name); };
+  } else {
+    const review = tab === 'review';
+    const rows = await api('/hr/applications' + (review ? '?status=REFERRED_TO_HR' : ''));
+    body.innerHTML = rows.length ? `<div class="scroll"><table><tr><th>Candidate</th><th>Role</th><th>Status</th><th>${review ? 'Preferred dates' : 'Interview'}</th><th>Agent note</th><th></th></tr>
+      ${rows.map(a => `<tr><td><b>${esc(a.full_name)}</b><div class="sub">${esc(a.contact_email)}</div><div class="sub">${esc(a.contact_number)}</div></td>
+        <td>${esc(a.role)}</td><td>${chip(a.status)}</td>
+        <td>${review ? [a.pref_date_1, a.pref_date_2, a.pref_date_3].map(d => `<div>${fmtDate(d)}</div>`).join('')
+          : a.interview_date ? `${fmtDate(a.interview_date)}<div class="sub">${hm(a.start_time)} to ${hm(a.end_time)} with ${esc(a.panelist)}</div>` : ''}</td>
+        <td>${esc(a.status_reason || '')}<div class="sub">${esc(a.agent_decision || '')}</div></td>
+        <td><div class="acts"><button class="btn sm" data-resume="${a.application_id}" data-name="${esc(a.resume_filename)}">Resume</button>
+          ${a.status === 'REFERRED_TO_HR' ? `<button class="btn sm green" data-act="ACCEPT" data-id="${a.application_id}">Accept</button><button class="btn sm red" data-act="REJECT" data-id="${a.application_id}">Reject</button>` : ''}</div></td></tr>`).join('')}
+      </table></div>` : `<div class="empty">${review ? 'Nothing is waiting for your review.' : 'No applications yet.'}</div>`;
+    body.onclick = async e => {
+      const r = e.target.closest('[data-resume]');
+      if (r) return download(`/hr/applications/${r.dataset.resume}/resume`, r.dataset.name);
+      const b = e.target.closest('[data-act]');
+      if (!b) return;
+      b.disabled = true;
+      try {
+        await api('/hr/applications/' + b.dataset.id, {method: 'PATCH', json: {decision: b.dataset.act}});
+        toast(b.dataset.act === 'ACCEPT' ? 'Accepted. Interview booked' : 'Application rejected');
+        go('hr', tab);
+      } catch (err) { toast(err.message, true); b.disabled = false; }
+    };
+  }
+};
+
+go(session ? (session.role === 'hr' ? 'hr' : 'jobs') : 'home');
+</script>
+</body>
+</html>

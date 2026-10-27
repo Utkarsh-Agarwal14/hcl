@@ -1,0 +1,26 @@
+{
+  "job_title": "ML Engineer",
+  "location": "Bengaluru",
+  "location_policy": "required",
+  "minimum_experience_years": 3,
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Statistics",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "MLOps",
+    "Docker",
+    "Natural Language Processing"
+  ],
+  "weights": {
+    "skills": 70,
+    "experience": 30
+  },
+  "top_n": 3
+}
