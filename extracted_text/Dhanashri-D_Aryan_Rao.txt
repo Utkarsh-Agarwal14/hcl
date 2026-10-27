@@ -1,0 +1,140 @@
+[Page 1]
+Aryan Rao 
+
+ Data Analyst 
+
+ aryan.rao@example.com | +91-9123-456789 | 123 Analytics Lane, Hyderabad, Uttar Pradesh 868599
+
+ 
+ Professional Summary 
+
+ 
+ Data Analyst with 12 years of experience in manufacturing analytics, BI, and SQL optimization. Skilled in
+ Tableau/Power BI dashboard development, statistical analysis, and Python-based data science. Driven by
+
+ solving complex business problems through data and delivering insights that impact operations.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+ (cid:127) ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision 
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Tech Motors Corp | 2023 - 2026 
+ (cid:127) Created interactive Power BI dashboards reducing reporting time from 8h/week to 1h/week
+
+ (cid:127) Mentored 2 junior analysts on SQL optimization and BI best practices
+
+ (cid:127) Developed predictive model for equipment failure detection achieving 87% accuracy (Python,
+ scikit-learn) 
+ (cid:127) Spearheaded data quality initiative cleaning and validating 15 critical datasets
+
+ 
+ Senior Data Analyst 
+
+ Ecom Logistics Solutions | 2017 - 2022 
+ (cid:127) Spearheaded data quality initiative cleaning and validating 15 critical datasets
+
+ (cid:127) Mentored 2 junior analysts on SQL optimization and BI best practices
+
+ (cid:127) Designed and deployed enterprise data warehouse supporting 50+ production analysts (Snowflake,
+ 2TB+ data) 
+
+ (cid:127) Developed predictive model for equipment failure detection achieving 87% accuracy (Python,
+ scikit-learn)
+
+[Page 2]
+Data Analyst 
+
+ Innovate Engineering Ltd | 2012 - 2016 
+
+ (cid:127) Designed and deployed enterprise data warehouse supporting 50+ production analysts (Snowflake,
+ 2TB+ data) 
+ (cid:127) Mentored 2 junior analysts on SQL optimization and BI best practices
+
+ (cid:127) Spearheaded data quality initiative cleaning and validating 15 critical datasets
+
+ (cid:127) Developed predictive model for equipment failure detection achieving 87% accuracy (Python,
+ scikit-learn) 
+
+ 
+
+ Projects 
+
+ 
+ Quality Analytics ETL Pipeline 
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ 
+ Predictive Maintenance ML Model 
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+ Supply Chain Analytics Platform 
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs 
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+ Northern Institute of Technology / Western University 
+
+ Graduated: 2006 | GPA: 8.40/10 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Microsoft Certified: Data Analyst Associate (2023) 
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Achievement 1
+
+[Page 3]
+Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+ Contact 
+
+ 
+ aryan.rao@example.com 
+
+ +91-9123-456789 
+
+ 123 Analytics Lane, Hyderabad, Uttar Pradesh 868599 
+ linkedin.com/in/aryan-rao-profile 
+
+ github.com/aryanrao-dev

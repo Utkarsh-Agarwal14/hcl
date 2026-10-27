@@ -1,0 +1,62 @@
+[Page 1]
+CASPIAN YATES 
+
+ 
+ Associate Front End Developer 
+
+ c.yates@email.com (123) 456-7890 Seattle, WA 
+
+ 
+
+ WORK EXPERIENCE EDUCATION 
+
+ Associate Front End Developer Bachelor of Science 
+ Computer Science 
+ Expedia Group 
+ University of Washington 
+ 2022 - current Seattle, WA 
+ Managed Visual Studio Code to debug and optimize front- 2013 - 2017 
+ end code, achieving a 17% rise in overall application speed as Seattle, WA 
+ per tests. 
+ Leveraged Yarn's caching mechanisms to developing build 
+ performance, decreasing average build time from 24 SKILLS 
+ minutes to 18 minutes. 
+ Enhanced website security using Joomla-specific extensions, HTML5 
+ detecting and addressing 21% of unauthorized access 
+ React.js 
+ attempts before escalation. 
+ GitHub 
+ Implemented error handling and logging mechanisms for 
+ Yarn 
+ GraphQL operations, boosting application stability and 
+ Gulp 
+ cutting down runtime errors by 29%. 
+ Joomla 
+ Web Developer Mocha 
+ GraphQL 
+ Zillow 
+ Bootstrap 
+ 2019 - 2022 Seattle, WA 
+ Visual Studio Code 
+ Reviewed Gulp-based versioning for static assets, reducing 
+ cache miss rates by 33% and elevating page load efficiency. 
+ Developed a responsive navigation menu using Bootstrap, 
+ eleva site navigation and lowering drop-off rates by 14%. 
+ Ensured cross-browser compatibility for all web applications, 
+ leading to a 28% uplift in traffic from diverse browsers. 
+ Introduced a single-page application (SPA) using React.js, 
+ enhancing user experience and reducing bounce rate by 22%. 
+ Junior Web Developer 
+ Redfin 
+ 2017 - 2019 Seattle, WA 
+ Automated the workflow process through GitHub webhooks, 
+ saving approximately 18 hours every month. 
+ Performed cross-browser testing with Mocha, ensuring 
+ consistent performance across major browsers and 
+ minimizing cross-browser issues by 26%. 
+ Supported senior developers by debugging complex issues in 
+ the codebase, contributing to a 12% downtick in critical bug 
+ reports. 
+ Optimized HTML5 video embedding techniques, providing a 
+ smoother playback experience and a 43% cut in video 
+ buffering complaints.

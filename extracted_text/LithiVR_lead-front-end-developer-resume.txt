@@ -1,0 +1,62 @@
+[Page 1]
+ALARIC VAUGHN 
+
+ 
+
+ Lead Front End Developer 
+
+ 
+
+ CONTACT WORK EXPERIENCE 
+ a.vaughn@email.com Lead Front End Developer 
+
+ (123) 456-7890 
+ GrammaTech, Inc. 
+ Ithaca, NY 
+ 2022 - current / Ithaca, NY 
+ LinkedIn 
+ Redesigned Bootstrap-based UI components, enhancing overall
+ application performance and cutting down load times by 11
+ seconds. 
+ EDUCATION 
+ Developed Bower packages for internal use, speeding up
+ Bachelor of Science development cycles and shrinking external dependency issues
+ by 19%. 
+ Computer Science 
+ Created quality mockups and prototypes by using Karma tests
+ Cornell University 
+ to validate functionality, leading to a 14% rise in prototype
+ 2013 - 2017 approval rates. 
+ Ithaca, NY Restructured SVN workflows by introducing automated scripts,
+ lowering manual errors during code commits by 32%.
+ SKILLS 
+ UI/UX Developer 
+ Bootstrap Advion, Inc. 
+ Angular 
+ 2019 - 2022 / Ithaca, NY 
+ SVN 
+ Resolved layout inconsistencies across different browsers with
+ Bower Flexbox, gaining a 93% success rate in user acceptance testing.
+ Flexbox Leveraged Sass functions to create dynamic and responsive
+ Sass styles based on user interactions, slashing events of styling bugs
+ Gulp by 21%. 
+ Karma Achieved a 4.2/5 rating in app store reviews by focusing on user-
+ centered design principles and regular feature updates.
+ Lighthouse 
+ Optimized image formats and sizes as recommended by
+ Chrome DevTools 
+ Lighthouse, shortening image load times by 0.8 seconds.
+ Full Stack Developer 
+ e2e Materials 
+ 2017 - 2019 / Ithaca, NY 
+ Implemented JWT authentication to improve data security in
+ Angular applications, minimizing unauthorized access incidents
+ by 67%. 
+ Accelerated the styling process by integrating Gulp for
+ automated CSS preprocessing, leading to a 23% decrease in
+ compilation errors. 
+ Used responsive design techniques, ensuring a consistent user
+ experience across all devices and growing mobile traffic by 31%.
+ Employed Chrome DevTools for real-time debugging and
+ logging, reducing the average issue resolution time from 4 to
+ 2 hours.

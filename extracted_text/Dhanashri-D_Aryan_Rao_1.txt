@@ -1,0 +1,98 @@
+[Page 1]
+Aryan Rao 
+
+ Data Analyst 
+
+ aryan.rao.99460@fictionalemail.com | +91-9193-123456 | 95 Tech Park, Ahmedabad, Uttar Pradesh 796592
+
+ LinkedIn 
+
+ 
+ Professional Summary 
+
+ 
+ Analytical professional with 1 year of experience in data analysis and reporting. Proficient in SQL, Excel, and
+ Tableau with growing skills in Python. Passionate about uncovering insights and supporting data-driven
+ decision-making in manufacturing environments. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+
+ Text, Ladder Logic 
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Global Auto Corp | 2025 - 2026 
+ (cid:127) Assisted in creating SQL queries for supply chain visibility reporting
+
+ (cid:127) Generated weekly performance reports for production management improving decision turnaround by 2
+ days 
+
+ (cid:127) Performed data cleaning and validation on manufacturing datasets (100k+ records) improving accuracy
+ by 12% 
+
+ (cid:127) Built daily production KPI dashboards in Tableau tracking 30+ metrics across facilities
+
+ 
+
+ Projects 
+
+ 
+ Quality Analytics ETL Pipeline 
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+[Page 2]
+Supply Chain Analytics Platform 
+
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs 
+
+ 
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+ Innovative University / Metropolitan University | Graduated: 2017 | GPA: 8.20/10
+
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ aryan.rao.99460@fictionalemail.com 
+ +91-9193-123456 
+
+ 95 Tech Park, Ahmedabad, Uttar Pradesh 796592 
+
+ LinkedIn

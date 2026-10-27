@@ -1,0 +1,169 @@
+[Page 1]
+Rohan Sinha 
+
+ Automation Controls Engineer 
+
+ rohan.sinha.aux@example.com | +91-9957-543210 | 206 Innovation Drive, Noida, Telangana 788123
+
+ 
+ Professional Summary 
+
+ 
+ Experienced Automation Controls Engineer with 12 years of hands-on expertise in PLC programming, SCADA
+ systems, and industrial automation. Strong background in process control, electrical systems design, and
+
+ manufacturing environments. Committed to delivering robust, efficient automation solutions that optimize
+ production. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ 
+ Controls Engineer 
+ Innovatech Solutions | 2023 - 2026 
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ 
+ Senior Controls Engineer 
+
+ Automation Dynamics Ltd | 2020 - 2022 
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+[Page 2]
+Controls Engineer 
+
+ MotorCraft Industries | 2016 - 2019 
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ Controls Engineer 
+
+ TechDrive Innovations | 2012 - 2015 
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ Controls Engineer 
+
+ Velocity Motors | 2010 - 2011 
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+ 
+
+ Education 
+
+ B.Tech in Electrical Engineering 
+
+ Tech University of India 
+
+ Graduated: 2006 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Siemens SIMATIC Automation & Drives Certified (2022) 
+ (cid:127) SCADA Systems Administration Certified (2020) 
+
+ 
+
+ Projects 
+
+ 
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+[Page 3]
+(cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ 
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ 
+
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages 
+
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ 
+ rohan.sinha.aux@example.com 
+ +91-9957-543210 
+
+ 206 Innovation Drive, Noida, Telangana 788123 
+
+ linkedin.com/in/rohan-sinha-aux 
+ github.com/rohansinha-aux

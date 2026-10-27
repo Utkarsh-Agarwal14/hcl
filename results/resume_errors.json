@@ -1,0 +1,10 @@
+[
+  {
+    "file_path": "datasets\\Dhanashri-D\\Shruti_Kapoor.pdf",
+    "error": "Failed after 3 attempts: Provider returned no choices."
+  },
+  {
+    "file_path": "datasets\\LithiVR\\lead-front-end-developer-resume.pdf",
+    "error": "Failed after 3 attempts: Provider returned no choices."
+  }
+]

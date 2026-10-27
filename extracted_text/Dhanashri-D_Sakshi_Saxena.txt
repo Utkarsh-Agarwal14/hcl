@@ -1,0 +1,111 @@
+[Page 1]
+Sakshi Saxena 
+
+ Analytical Professional 
+
+ sakshi.saxena.data@gmail.com | +91-9876-543210 | 123 Data Lane, Tech City, Bangalore, Karnataka
+ 560001 
+
+ 
+
+ Professional Summary 
+
+ Analytical professional with 2 years of experience in data analysis and reporting. Proficient in SQL, Excel, and
+
+ Tableau with growing skills in Python. Passionate about uncovering insights and supporting data-driven
+ decision-making in manufacturing environments. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+ Forecasting 
+
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+ (cid:127) Business: Finance, Business Acumen, Stakeholder Management 
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Tech Solutions Corp | 2024 - 2026 
+ (cid:127) Performed data cleaning and validation on manufacturing datasets (100k+ records) improving accuracy
+
+ by 12% 
+ (cid:127) Assisted in creating SQL queries for supply chain visibility reporting
+
+ (cid:127) Generated weekly performance reports for production management improving decision turnaround by 2
+ days 
+
+ (cid:127) Built daily production KPI dashboards in Tableau tracking 30+ metrics across facilities
+
+ 
+
+ Projects 
+
+ 
+ Production Analytics Dashboard 
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly
+
+[Page 2]
+Quality Analytics ETL Pipeline 
+
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ 
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ National Institute of Technology / Global Institute of Technology | Graduated: 2016 | GPA: 7.91/10
+
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Certification 1 
+ (cid:127) Certification 2 
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Achievement 1 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ 
+ sakshi.saxena.data@gmail.com 
+ +91-9876-543210 
+
+ 123 Data Lane, Tech City, Bangalore, Karnataka 560001 
+
+ linkedin.com/in/sakshi-professional 
+ github.com/sakshi-tech

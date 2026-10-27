@@ -1,0 +1,98 @@
+[Page 1]
+Sakshi Singh 
+
+ Controls Engineer 
+
+ sakshi.singh.automation@outlook.com | +91-9187-123456 | 12 Innovation Drive, Chennai, Haryana 468064
+
+ 
+ Professional Summary 
+
+ 
+ Dedicated Controls Engineer with 2 years of foundational experience in PLC programming and industrial
+ automation. Proficient in Siemens and Allen-Bradley platforms with growing expertise in SCADA/HMI
+
+ development. Eager to expand technical depth and contribute to impactful automation projects.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+ (cid:127) Electrical Systems: Circuit Design, Wiring, Power Systems 
+
+ 
+
+ Work Experience 
+
+ 
+ Controls Engineer 
+
+ Tech Systems Ltd | 2024 - 2026 
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology 
+ Graduated: 2016 | GPA: 7.39/10 
+
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+[Page 2]
+Projects 
+
+ 
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ sakshi.singh.automation@outlook.com 
+ +91-9187-123456 
+
+ 12 Innovation Drive, Chennai, Haryana 468064 
+
+ linkedin.com/in/sakshi-singh-automation 
+ github.com/sakshisingh-tech

@@ -1,0 +1,58 @@
+[Page 1]
+l.williams@email.com 
+ Leonidas Williams 
+ (123) 456-7890 
+ Seattle, WA 
+ Front-End Developer 
+ LinkedIn 
+ Github 
+ Front-End Developer with a proven ability to collaborate effectively with 
+ senior developers while spending extra time to be mentored. Enjoy 
+ working closely with team members to ensure workloads are effectively 
+ redirected to bottlenecks and personally picking up the slack when 
+ necessary. With a passion for both personal growth and for software 
+ development, I attended a 1000+ hour coding bootcamp to learn new 
+ languages while sharpening existing skills. Ready to apply my passion for 
+ coding to a talented engineering team to develop quality solutions. 
+ WORK EXPERIENCE SKILLS 
+ HelloFresh JavaScript 
+ HTML 
+ Junior Front-End Developer 
+ CSS 
+ Remote | June 2021 - current 
+ React 
+ Set up testing framework for team project using Mocha and Chai to 
+ Node.js 
+ test the Node API. This decreased the amount of bugs pre- 
+ deployment by over 70%. Mocha/Chai 
+ Worked in an agile environment with weekly stand-ups, kept track of Jest 
+ user stories/bugs in GitHub projects, and conducted 2 hours of sprint GIT 
+ planning and sprint retrospectives per week. This process allowed 
+ production to increase by 45% while decreasing overall time invested 
+ by 20%. EDUCATION 
+ Participated in pair programmed with 3 engineers, and reviewed Certification 
+ team’s code to provide additional perspective and catch previously 
+ Front End Development 
+ missed errors. 
+ Thinkful 
+ Tested React components using Jest. 
+ 2020 - 2021 
+ Seattle, WA 
+ Blend 
+ Front-End Developer Apprenticeship 
+ Remote | January 2021 - June 2021 
+ Assisted in building beautiful user interfaces for clients without 
+ compromising functionality for aesthetics. 
+ Implemented newly-learned front-end object-oriented programming 
+ to develop client server systems. 
+ Wrote unit tests in Jest. This made products 100% bug free. 
+ Learned and applied Agile methodologies and principles. 
+ PROJECTS 
+ Sickle To 'Em 
+ Designer, Developer 
+ 2021 - current 
+ Built a full-stack web app to allow Sickle Cell Anemia patients to 
+ keep track of 15+ medications needed for treatment. 
+
+ Used React to allow users to instantaneously update the medication 
+ list interface without reloading.

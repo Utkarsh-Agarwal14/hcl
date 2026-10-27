@@ -1,0 +1,56 @@
+[Page 1]
+Levi Brooks l.brooks@email.com 
+ (123) 456-7890 
+
+ Alpharetta, GA 
+ Front End Developer 
+ LinkedIn 
+ Work Experience 
+
+ Verizon Telematics - Front End Developer 
+
+ 2021 - current Alpharetta, GA 
+ Developed responsive web interfaces using Angular and Bootstrap, resulting in an 18% increase in
+ mobile users 
+ Migrated web applications from WebLogic to Apache, reducing server maintenance costs by 14%,
+ amounting to an annual savings of $6.8K 
+
+ Used Git version control for source code management, resolving 98% of merge conflicts in a
+ collaborative coding project 
+ Expedited front-end development process by 33% via implementing Webpack for JavaScript module
+ bundling 
+
+ Cox Communications - Web Developer 
+
+ 2018 - 2021 Sandy Springs, GA
+ Automated project build processes with Apache Maven, decreasing downtime by 32% during system
+ updates or additions 
+ Conducted comprehensive software testing using JUnit, which resulted in a 41% reduction in
+ software bug issues post-release 
+
+ Merged development branches with Git, avoiding code conflicts and ensuring seamless code
+ integration in 99% of cases 
+ Improved the website load time by 26% by optimizing PostCSS utilities to minify and purge unused
+ CSS 
+
+ Mailchimp - Junior Web Developer 
+
+ 2016 - 2018 Atlanta, GA 
+ Leveraged Eclipse IDE that reduced the bug correction time by 11%, saving about 21 hours per month
+ and elevating the efficiency of development cycles 
+ Maintained end-to-end website functionality, leading to a rare downtime rate of 3.3%
+
+ Optimized Git practices, ensuring 98% resolution in merge conflicts, minimizing project delays and
+ saving a projected 12 hours per month 
+
+ 
+ Education 
+
+ Georgia Institute of Technology - Bachelor of Science, 
+ Computer Science 
+ 2011 - 2015 Atlanta, GA 
+
+ 
+ Skills 
+
+ Eclipse; Apache Maven; Git; Spring MVC; Angular; PostCSS; WebLogic; Webpack; JUnit; Bootstrap

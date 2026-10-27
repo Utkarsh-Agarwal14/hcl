@@ -1,0 +1,105 @@
+[Page 1]
+Manish Kulkarni 
+
+ Controls Engineer 
+
+ manish.kulkarni.45678@example.com | +91-9876-543210 | 123 Innovation Way, Mumbai, Uttar Pradesh
+ 123456 
+
+ 
+
+ Professional Summary 
+
+ Dedicated Controls Engineer with 2 years of foundational experience in PLC programming and industrial
+
+ automation. Proficient in Siemens and Allen-Bradley platforms with growing expertise in SCADA/HMI
+ development. Eager to expand technical depth and contribute to impactful automation projects.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Basic Ladder Logic, Limited STL 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ Controls Engineer 
+
+ Techno Solutions Inc. | 2024 - 2026 
+
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+
+ 
+
+ Projects 
+
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement
+
+[Page 2]
+Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ Global Institute of Technology | Graduated: 2016 | GPA: 8.28/10 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Certification 1 
+
+ (cid:127) Certification 2 
+
+ 
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+ Contact 
+
+ 
+ manish.kulkarni.45678@example.com 
+
+ +91-9876-543210 
+
+ 123 Innovation Way, Mumbai, Uttar Pradesh 123456 
+ linkedin.com/in/manish-kulkarni-1234 
+
+ github.com/manish-k-code

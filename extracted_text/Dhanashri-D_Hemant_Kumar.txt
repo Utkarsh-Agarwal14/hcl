@@ -1,0 +1,95 @@
+[Page 1]
+Hemant Kumar 
+
+ Controls Engineer 
+
+ hemant.kumar.44789@example.com | +91-9486-670332 | 444 Innovate Lane, Bangalore, Gujarat 520910
+
+ 
+ Professional Summary 
+
+ 
+ Dedicated Controls Engineer with 1 year of foundational experience in PLC programming and industrial
+ automation. Proficient in Siemens and Allen-Bradley platforms with growing expertise in SCADA/HMI
+
+ development. Eager to expand technical depth and contribute to impactful automation projects.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+ Work Experience 
+
+ 
+ Controls Engineer 
+
+ Tech Motors Inc. | 2025 - 2026 
+
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+
+ 
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology (NIT) | Graduated: 2017 | GPA: 8.46/10 
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+ 
+
+ Projects 
+
+ Motor Control & Protection System
+
+[Page 2]
+(cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ hemant.kumar.44789@example.com 
+
+ +91-9486-670332 
+ 444 Innovate Lane, Bangalore, Gujarat 520910 
+
+ linkedin.com/in/hemant-kumar-professional 
+
+ github.com/hemant-kumar-dev

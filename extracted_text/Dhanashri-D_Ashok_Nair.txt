@@ -1,0 +1,160 @@
+[Page 1]
+Ashok Nair 
+
+ Automation & Controls Engineer 
+
+ ashok.nair.99771@fictionalemail.com | +91-9613-546755 | 51 Tech Park, Delhi, West Bengal 546590
+
+ 
+ Professional Summary 
+
+ 
+ Results-driven Automation & Controls Engineer with 13+ years of experience designing, implementing, and
+ managing industrial automation solutions. Proven expertise in PLC/SCADA systems, DCS integration, and
+
+ process optimization. Demonstrated track record of reducing production downtime by 20%+ and leading
+ cross-functional teams. Seeking Senior Controls Engineer role to leverage automation expertise and mentor
+ next-gen engineers. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ 
+ Controls Engineer 
+
+ Tech Innovations Ltd | 2022 - 2026 
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+ (cid:127) Led multi-disciplinary team of 5 engineers in deploying Safety-rated systems (SIL 2/3) across
+
+ manufacturing 
+
+ Senior Controls Engineer 
+
+ Global Automation Solutions | 2017 - 2021 
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+
+[Page 2]
+Lead Controls Engineer / Team Lead 
+
+ Innovative Fulfillment Corp | 2011 - 2016 
+
+ (cid:127) Spearheaded IIoT initiative connecting 15 machines to cloud analytics platform, enabling predictive
+ insights 
+
+ (cid:127) Mentored 4 junior engineers resulting in 3 promotions within 2 years
+ (cid:127) Implemented real-time production analytics integration reducing defect detection time from 4h to 12min
+
+ (cid:127) Architected end-to-end industrial automation solution for greenfield facility (100+ I/O points)
+
+ 
+
+ Projects 
+
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25% 
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+ National Institute of Engineering 
+
+ Graduated: 2005 | GPA: 8.14/10 
+ M.Tech in Control Systems 
+
+ Institute of Advanced Technology 
+
+ Graduated: 2007 | GPA: 8.09/10 
+
+ 
+ Certifications
+
+[Page 3]
+(cid:127) SCADA Systems Administration Certified (2020) 
+
+ (cid:127) Industrial Safety Systems (SIL 2/3) Certificate (2023) 
+
+ (cid:127) IEC 61131-3 PLC Programming Standard (2022) 
+
+ 
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages 
+
+ 
+ (cid:127) English 
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ 
+ ashok.nair.99771@fictionalemail.com 
+
+ +91-9613-546755 
+ 51 Tech Park, Delhi, West Bengal 546590 
+
+ linkedin.com/in/ashok-nair-8196 
+
+ github.com/ashoknairdev

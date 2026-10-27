@@ -1,0 +1,55 @@
+[Page 1]
+ENRIQUE WORK EXPERIENCE 
+
+ Mid-Level Front-End Developer 
+ VERAGOZA 
+ Gametime 
+ Front-End Developer 
+ January 2019 - current Remote 
+ Worked with design, product, and back-end teams to create
+ e.veragoza@email.com 12 web products. 
+ (123) 456-7890 Created 3 efficient and reusable front-end systems to drive
+ Stockton, CA web applications to the marketplace. 
+ LinkedIn Participated in product releases and code reviews with 5
+ senior developers and team leads. 
+ Supervised, led, and mentored 11 junior team members to
+ achieve high performance and meet goals. 
+ EDUCATION 
+ Bachelor of Science Front-End Developer 
+ Computer Science 
+ Kaiser Permanente 
+ University of the Pacific 
+ August 2017 - January 2019 Walnut Creek, CA 
+ September 2011 - June 2015 Collaborated with 6 other team members and 4 
+ Stockton, CA stakeholders to develop 16 new user-facing features.
+ Assisted in building 100% reusable code and libraries for
+ future use. 
+ Ensured the technical feasibility of 150+ UI/UX designs.
+ Optimized 15+ applications for maximum speed and 
+ scalability. 
+ Validated 100% of user input before submitting to the back-
+ end. 
+
+ Junior Front-End Developer 
+
+ PLACE 
+ June 2015 - August 2017 Remote 
+ Delivered 30+ projects of all sizes, creating solutions for
+ consumer services. 
+ Wrote 40+ automated tests for every new feature to identify
+ and rectify bugs. 
+
+ Evaluated 100+ end-to-end designs for performance
+ complexity, scalability, quality, and security. 
+
+ 
+ SKILLS 
+ HTML 
+ CSS 
+
+ JavaScript 
+ React.js 
+
+ 
+ CERTIFICATIONS 
+ AWS

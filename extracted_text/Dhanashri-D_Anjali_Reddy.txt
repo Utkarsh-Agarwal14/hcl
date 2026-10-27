@@ -1,0 +1,108 @@
+[Page 1]
+Anjali Reddy 
+
+ Controls Engineer 
+
+ anjali.reddy.automate@protonmail.com | +91-9888-123456 | 485 Innovation Drive, Pune, Uttar Pradesh
+ 782688 
+
+ 
+
+ Professional Summary 
+
+ Dedicated Controls Engineer with 2 years of foundational experience in PLC programming and industrial
+
+ automation. Proficient in Siemens and Allen-Bradley platforms with growing expertise in SCADA/HMI
+ development. Eager to expand technical depth and contribute to impactful automation projects.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+ Forecasting 
+
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+
+ Professional Experience 
+
+ Controls Engineer 
+
+ TechDynamics Pvt Ltd | 2024 - 2026 
+
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ 
+
+ Projects 
+
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ Tractor Assembly Line Automation 
+
+ (cid:127) Designed and implemented PLC-based automation for multi-station assembly line
+
+ (cid:127) Impact: Reduced cycle time by 18%, increased throughput by 25%
+
+[Page 2]
+Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology (NIT) 
+
+ Graduated: 2016 | GPA: 7.62/10 
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Certification 1 
+
+ (cid:127) Certification 2 
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Achievement 1 
+
+ 
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ 
+ anjali.reddy.automate@protonmail.com 
+ +91-9888-123456 
+
+ 485 Innovation Drive, Pune, Uttar Pradesh 782688 
+ linkedin.com/in/anjali-reddy-tech 
+
+ github.com/anjali-reddy-code

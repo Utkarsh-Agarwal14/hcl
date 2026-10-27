@@ -1,0 +1,138 @@
+[Page 1]
+Suresh Singh 
+
+ Automation Controls Engineer 
+
+ suresh.singh.12345@anonmail.com | +91-9876-543210 | 68 Innovation Blvd, Kolkata, West Bengal 268368
+
+ 
+ Professional Summary 
+
+ 
+ Experienced Automation Controls Engineer with 4 years of hands-on expertise in PLC programming, SCADA
+ systems, and industrial automation. Strong background in process control, electrical systems design, and
+
+ manufacturing environments. Committed to delivering robust, efficient automation solutions that optimize
+ production. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ (cid:127) Electrical Systems: Circuit Design, Wiring, Power Systems 
+
+ 
+
+ Work Experience 
+
+ Controls Engineer 
+
+ AutoTech Industries | 2023 - 2026 
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+ (cid:127) Reduced downtime by 18% through predictive maintenance alarm logic and diagnostics
+
+ (cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ 
+ Senior Controls Engineer 
+ TechSolutions Ltd | 2021 - 2022 
+
+ (cid:127) Led DCS integration project connecting legacy systems to centralized control hub (40+ instruments)
+
+ (cid:127) Designed and implemented PLC automation logic for three production lines, reducing cycle time by
+ 22% 
+
+ (cid:127) Developed and optimized SCADA dashboards improving visibility into 50+ process parameters
+
+[Page 2]
+(cid:127) Trained 8 technicians on PLC programming best practices and safety protocols
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+
+ National Institute of Technology (NIT) 
+ Graduated: 2014 
+
+ 
+ Certifications 
+
+ 
+ (cid:127) IEC 61131-3 PLC Programming Standard (2022) 
+
+ (cid:127) SCADA Systems Administration Certified (2020) 
+ (cid:127) Siemens SIMATIC Automation & Drives Certified (2022) 
+
+ 
+
+ Projects 
+
+ 
+ SCADA System Integration 
+
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ Predictive Maintenance Logic 
+
+ (cid:127) Developed diagnostic algorithms for equipment health monitoring 
+
+ (cid:127) Impact: Prevented 3 major failures, saved $180K in unplanned downtime
+
+ Motor Control & Protection System 
+
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+ Achievements 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+ (cid:127) Team collaboration and knowledge sharing 
+
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Languages
+
+[Page 3]
+(cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ 
+ suresh.singh.12345@anonmail.com 
+ +91-9876-543210 
+
+ 68 Innovation Blvd, Kolkata, West Bengal 268368 
+ linkedin.com/in/suresh-singh-professional 
+
+ github.com/suresh-singh-dev

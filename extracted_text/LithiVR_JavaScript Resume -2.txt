@@ -1,0 +1,54 @@
+[Page 1]
+F L 
+ IRST AST 
+ Bay Area, California • +1-234-456-789 • professionalemail@resumeworded.com• linkedin.com/in/username
+
+ PROFESSIONAL EXPERIENCE 
+
+ Resume Worded, New York, NY Jun 2018 – Present 
+ JavaScript Developer 
+ ● Performed on code reviews and bug fixes, reducingtechnical debt by 30% within the first quarter.
+ ● Mentored 5 junior front end developers on JavaScriptand Redux and trained on the documentation practices
+ used within the organization.Highly involved in theentire product development process from ideationto
+ development and improvement for features, reachingover 250,000 users. 
+ ● Relocated a multi-page user experience into a singlepage application, improving customer engagement by
+
+ 12%. 
+ ● Designed multiple dynamic and browser compatible pagesusing HTML5, CSS3, Javascript (React, Redux).
+ ● Collaborated with UX/UI design teams to improve checkoutflow; increased conversion rates by 20%.
+ ● Analyzed impact and effectiveness of in-app UI changeson customer retention; identified features of
+ customer behavior and recommended additional menumodifications [R, MySQL, Chart JS]
+
+ Growthsi, New York, NY Jan 2015 – May 2018 
+ Front End Developer 
+ ● Worked alongside three peers to build a real timevoice visualization website based on JavaScript within36
+ hours. 
+ ● Built a web application MPV for a dropship managementplatform with 75+ business customers to create,
+ manage and monitor deliveries. 
+ ● Updated a cooking application with 6000+ monthly activeusers to allow the uploading of audio and video
+ content using Redux. 
+
+ Resume Worded, San Diego, CA May 2010 – Dec 2014 
+ Software Engineer(Nov 2011 – Dec 2014) 
+ ● Developed RESTful APIs used within the company toserve data based on dynamically chosen user inputs
+ for a web application with over 275,000 concurrentusers. 
+ ● Built unit testing infrastructure for a client applicationresulting in reduced number of user-reported bugsby
+ 10% every month. 
+
+ 
+ Junior Software Engineer(May 2010 – Oct 2011) 
+ ● Developed an internal tool to automate QA and monitorcustomer facing web applications, resulting in an
+ improved click through rate by 7%. 
+ ● Worked alongside 2 developers to implement APIs whichhelped the internal analytics team to increase the
+ reporting speed by 24%. 
+
+ EDUCATION 
+
+ Resume Worded University, San Francisco, CA May 2010 
+ Bachelor of Science, Computer Science. 
+
+ SKILLS 
+ ●JavaScript (ES6, Redux) ●Python ●Typescript ●Tableau 
+ ●HTML/XML ●SQL ●Building APIs ●Selenium 
+
+ ●CSS ●ASP ●MySQL ●GraphQL

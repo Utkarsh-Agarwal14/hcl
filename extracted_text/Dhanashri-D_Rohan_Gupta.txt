@@ -1,0 +1,140 @@
+[Page 1]
+Rohan Gupta 
+
+ Controls Engineer 
+
+ rohan.gupta.52389@fictionalmail.com | +91-9010-555555 | 14 Industrial Lane, Kolkata, Tamil Nadu 572768
+
+ 
+ Professional Summary 
+
+ 
+ Dedicated Controls Engineer with 12 years of foundational experience in PLC programming and industrial
+ automation. Proficient in Siemens and Allen-Bradley platforms with growing expertise in SCADA/HMI
+
+ development. Eager to expand technical depth and contribute to impactful automation projects.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ Controls Engineer 
+
+ Tech Innovators Inc. | 2021 - 2026 
+
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ Controls Engineer 
+
+ LogiTech Solutions | 2017 - 2020 
+
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ Controls Engineer 
+
+ AutoTech Corp. | 2013 - 2016
+
+[Page 2]
+(cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ 
+ Controls Engineer 
+
+ Mega Motors Ltd. | 2011 - 2012 
+ (cid:127) Collaborated on HMI interface development reducing operator errors by 15%
+
+ (cid:127) Participated in electrical schematic design and validation for motor control circuits
+ (cid:127) Assisted in programming and testing of PLC controllers for assembly line automation
+
+ (cid:127) Supported SCADA system implementation for real-time production monitoring
+
+ 
+
+ Projects 
+
+ 
+ Motor Control & Protection System 
+ (cid:127) Engineered comprehensive motor control logic with safety interlocking
+
+ (cid:127) Impact: Zero safety incidents, 99.8% uptime achievement 
+
+ 
+ SCADA System Integration 
+ (cid:127) Deployed WinCC SCADA system integrating 45+ sensors across production floor
+
+ (cid:127) Impact: Real-time visibility, 22% reduction in downtime 
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Electrical Engineering 
+ Tech University of India | Graduated: 2006 | GPA: 7.31/10 
+
+ Relevant Coursework: Control Systems, Industrial Electronics, Digital Systems, Power Electronics
+
+ 
+ Certifications 
+
+ 
+ (cid:127) Certification 1 
+
+ (cid:127) Certification 2 
+
+ 
+
+ Achievements 
+
+ (cid:127) Achievement 1
+
+[Page 3]
+Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+ Contact 
+
+ 
+ rohan.gupta.52389@fictionalmail.com 
+
+ +91-9010-555555 
+
+ 14 Industrial Lane, Kolkata, Tamil Nadu 572768 
+ linkedin.com/in/rohan-gupta-professional 
+
+ github.com/rohan-gupta-tech

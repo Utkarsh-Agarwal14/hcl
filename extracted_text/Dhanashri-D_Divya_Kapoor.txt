@@ -1,0 +1,97 @@
+[Page 1]
+Divya Kapoor 
+
+ Data Analyst 
+
+ divya.kapoor.4321@fakemail.com | +91-9876-543210 | 56 Innovation Street, Bangalore, Karnataka 622731
+
+ 
+ Professional Summary 
+
+ 
+ Analytical professional with 2 years of experience in data analysis and reporting. Proficient in SQL, Excel, and
+ Tableau with growing skills in Python. Passionate about uncovering insights and supporting data-driven
+
+ decision-making in manufacturing environments. 
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) PLC Programming: Siemens S7-1200/1500, Allen-Bradley CompactLogix/ControlLogix, Structured
+ Text, Ladder Logic 
+
+ (cid:127) SCADA & HMI: WinCC, FactoryTalk, Wonderware, Ignition 
+ (cid:127) Industrial Networks: Profibus, EtherCAT, Modbus, OPC-UA 
+
+ (cid:127) Control Theory: PID Control, Process Control, Motion Control, Safety Systems
+
+ (cid:127) Manufacturing: Machine Automation, Assembly Line Optimization, Packaging Systems, Material
+ Handling 
+
+ 
+
+ Work Experience 
+
+ Data Analyst 
+
+ TechLogistics Solutions | 2024 - 2026 
+
+ (cid:127) Generated weekly performance reports for production management improving decision turnaround by 2
+ days 
+
+ (cid:127) Performed data cleaning and validation on manufacturing datasets (100k+ records) improving accuracy
+ by 12% 
+
+ (cid:127) Built daily production KPI dashboards in Tableau tracking 30+ metrics across facilities
+ (cid:127) Assisted in creating SQL queries for supply chain visibility reporting
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ New Delhi Institute of Technology / Mumbai College of Science | Graduated: 2016 | GPA: 7.25/10
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ 
+ Projects
+
+[Page 2]
+Production Analytics Dashboard 
+
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly 
+
+ Predictive Maintenance ML Model 
+
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ divya.kapoor.4321@fakemail.com 
+ +91-9876-543210 
+
+ 56 Innovation Street, Bangalore, Karnataka 622731 
+
+ LinkedIn 
+ GitHub

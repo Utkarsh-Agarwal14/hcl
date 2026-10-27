@@ -1,0 +1,89 @@
+CURRICULUM VITAE
+NAME (Front End Developer)
+Mobile no.:- +91xxxxxxxxxx Email: *******@gmail.com
+Objective
+Seeking a challenging career that utilizes my skills in my area of competence and enriches my knowledge, and gives me a chance to be part of a team that contributes towards the growth of the organization and Open source community.
+Summary
+Bachelor of Engineering in Computer Science & Engineering with First Class. 
+Result oriented professional with more than 2 years and 4 months of experience in Web Development.
+Presently associated with Xtensible Software Solutions since December 2011.
+Experience in front end development technologies including advanced HTML/XHTML, CSS, JavaScript (cross-browser and cross-platform compatibility, AJAX.), jQuery ,jQuery UI, jQuery Mobile, Json, Jsonp.
+AJAX and JavaScript, including various types of libraries for different purposes such as jQuery, and many more, for forms, animation and visualization effects.
+Front-end developer with extensive experience building WordPress driven websites.
+Experience in php development .
+Created real-time web applications, complex front-end systems including content management, e-commerce.
+Excellent team player, with good skills in troubleshooting, debugging, problem solving. 
+Skills
+Strong knowledge in HTML , Java Script, CSS, jQuery, jQuery UI, jQuery Mobile, Bootstrap, PHP, PhoneGap, Sencha Touch, JSON , JSONP. 
+Framework: MVC Framework (Code Igniter), E-Commerce Framework (Open Cart), JavaScript Unit Test Framework (Jasmine). 
+CMS : WordPress, Joomla.
+Database: MySQL.
+Web Server: IIS7, Apache.
+Academic Qualifications
+Level of Education | Percentage | Institution | Year of Passing
+B.E. (Computer Science) | 66.30% | Dr.J.J.Magdum College Of Engineering, Jaysingpur. | 2011
+HSC | 77.60% | A.S.C. College , Ichalkaranji | 2007
+SSC | 73.33% | The New High School Ichalkaranji | 2005
+Work Experience
+Project Title | Javascript SDK / Promotional Site
+Domain | mobile-loyalty-social-crm
+Duration | 
+Team size | 2
+Role | Front End Developer / Javascript Developer
+Skills | jQuery, jQuery UI, JavaScript, Html, CSS 3, REST- Web Services, JSON.
+Responsibilities | Responsible for leading and managing all facets of web design and developmnet, mostly worked on javascript for creating sdk so it can easily integrates in many websites, also worked on ui design and development of promotional website.
+Project Title | Bandwagon
+Domain | Social – Deals
+Duration | 
+Team size | 1
+Role | Front End Developer
+Skills | jQuery, jQuery UI, JavaScript, Html 5, CSS3
+Responsibilities | Responsible for UI Design/ Development .
+Project Title | d2u
+Domain | E-commerce
+Duration | 
+Team size | 3
+Role | Web Developer
+Skills | jQuery, jQuery UI, JavaScript, Html 5, CSS3, Php
+E-Commerce Framework (OpenCart)
+Responsibilities | Worked as web developer using php and opensource ecommerce framework such as opencart, work with json response to parse them and create dynamic views.
+Project Title | Roster On Wheels Mobile Apps [V1 / V2]
+Domain | Social - Club
+Duration | 
+Team size | 2
+Role | Front End Developer
+Skills | jQuery Mobile , jQuery, jQuery UI, JavaScript, Html , CSS3, AngularJS.
+Phonegap
+Responsibilities | Responsible for UI Design/ Development .
+Responsible for develop architecture using Angular JS.
+Project Title | IFE 2013 / West Coast Franchise Expo [Mobile Apps]
+Domain | Events
+Duration | 
+Team size | 2
+Role | Javascript Developer [using Sencha Touch]
+Skills | JavaScript, Html , CSS3,
+Phonegap, Sencha Touch
+Responsibilities | Responsible for UI Design/ Development .
+Responsible for develop architecture using Sencha Touch 2.
+Project Title | Wordpress Site [Responsive Site]
+Domain | Events – Corporate - Social
+Duration | 
+Team size | 2
+Role | Front End Developer [using Sencha Touch]
+Skills | JavaScript, Html , CSS3, jQuery, Php
+CMS :- Wordpress, 
+Bootstrap
+Responsibilities | Responsible for UI Design/ Development .
+Personal Details 
+Name: *********
+Address: Lime Road, Hyderabad-500061
+Date of Birth: DD-MM-YYYY
+Gender: *****
+Contact No : +91 xxxxxxxxxx
+Language | Read | Write | Spoken
+English |  |  | 
+Hindi |  |  | 
+Telugu |  |  | 
+Declaration
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particular.
+Place: Signature NAME

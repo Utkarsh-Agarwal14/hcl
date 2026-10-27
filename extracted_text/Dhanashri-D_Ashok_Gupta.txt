@@ -1,0 +1,149 @@
+[Page 1]
+Ashok Gupta 
+
+ Senior Data Analyst 
+
+ ashok.gupta.99110@fakemail.com | +91-9658-123456 | 463 Innovation Ave, Gurugram, Karnataka 618713
+
+ LinkedIn 
+
+ 
+ Professional Summary 
+
+ 
+ Senior Data Analyst with 11+ years of experience driving business decisions through advanced analytics and
+ machine learning. Expert in building enterprise analytics platforms, predictive models, and data-driven
+ insights. Proven leadership managing analytics teams and translating complex data into actionable strategies.
+
+ Passionate about leveraging data to optimize manufacturing operations and drive innovation.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Excel, Basic SQL 
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+
+ Forecasting 
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Tech Innovations Ltd | 2021 - 2026 
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ Senior Data Analyst 
+
+ Automotive Solutions Corp | 2017 - 2020 
+
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+ locations 
+
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+[Page 2]
+(cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+ 
+ Lead Data Analyst / Team Lead 
+
+ MotoTech Pvt Ltd | 2013 - 2016 
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+ (cid:127) Published 2 peer-reviewed papers on manufacturing optimization in industry journals
+
+ 
+
+ Education 
+
+ 
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ North India University / West India University | Graduated: 2007 | GPA: 8.35/10
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ M.Tech / M.Sc in Data Science 
+
+ Central Institute of Technology / South India Institute | Graduated: 2009 | GPA: 7.92/10
+ Relevant Coursework: Machine Learning, Statistical Learning, Big Data Systems 
+
+ 
+
+ Certifications 
+
+ (cid:127) Tableau Desktop Specialist (2022) 
+
+ 
+
+ Projects 
+
+ 
+ Supply Chain Analytics Platform 
+
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs 
+
+ 
+ Predictive Maintenance ML Model 
+
+ (cid:127) Developed ML model predicting equipment failures using historical data
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ 
+ Production Analytics Dashboard 
+
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly 
+
+ 
+ Quality Analytics ETL Pipeline
+
+[Page 3]
+(cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ 
+
+ Additional Competencies 
+
+ 
+ (cid:127) Strong problem-solving and analytical mindset 
+ (cid:127) Excellent communication and stakeholder management 
+
+ (cid:127) Team collaboration and knowledge sharing 
+ (cid:127) Continuous learning and professional development 
+
+ 
+
+ Contact 
+
+ 
+ ashok.gupta.99110@fakemail.com 
+
+ +91-9658-123456 
+ 463 Innovation Ave, Gurugram, Karnataka 618713 
+
+ LinkedIn

@@ -1,0 +1,57 @@
+[Page 1]
+OPHELIA CRANE CAREER OBJECTIVE 
+
+ Proactive front-end developer proficient in HTML5 and React.js, seeking an
+ Front End Developer 
+ internship position at Gretrix. I aim to apply my strong basics in front-end
+ Intern technologies and various languages to expedite the delivery of responsive and
+ efficient applications for every Gretrix client. 
+ o.crane@email.com 
+ (123) 456-7890 
+ WORK EXPERIENCE 
+ Atlanta, GA 
+ Pet Sitter 
+ LinkedIn 
+ Critter Sitters Inc. 
+ 2023 - current Atlanta, GA 
+ Leveraged Git to manage version history of a new pet behavior tracking
+ EDUCATION 
+ software, reducing average monthly incident reports by 34%.
+ Bachelor of Science Implemented Bootstrap alerts for real-time updates on pet care status,
+ Computer Science improving communication and boosting client satisfaction scores by 32%.
+ Created digital pet profiles, increasing information accessibility for clients
+ Georgia Institute of Technology 
+ and slashing support queries by 28%. 
+ 2021 - current 
+ Automated appointment reminders in advance via email, minimizing no-
+ Atlanta, GA show rates by 14%. 
+ SKILLS PROJECTS 
+
+ HTML5 
+ Library Assistant 
+ React 
+ 2023 - 2024 
+ Git 
+ Incorporated HTML5 form validation for the library's online registration
+ Bootstrap 
+ system, lowering form submission errors by 42%. 
+ Jest 
+ Developed a React-based notification system for overdue books,
+ GitHub 
+ decreasing overdue cases by 11%. 
+ Managed content updates on the library’s website, ensuring timely and
+ accurate information dissemination. 
+ Worked with a cross-functional team to create an online study room
+ reservation system, shrinking reservation conflicts by 26%.
+ Campus Tour Guide 
+ 2022 
+ Conducted 15+ campus tours weekly, providing informational experiences
+ for prospective students, resulting in a 67% uplift in campus visit
+ satisfaction scores. 
+ Built Jest test cases to verify the integration of multimedia elements in
+ tour scripts, leading to a 21% surge in visitor engagement.
+ Devised and maintained a GitHub repository for tour guide schedules and
+ availability, curtailing the scheduling process time by 18 minutes.
+ Revamped the site using responsive web design techniques to ensure the
+ tour registration and information pages were accessible on all devices,
+ growing mobile registrations by 28%.

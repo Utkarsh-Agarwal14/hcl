@@ -1,0 +1,179 @@
+[Page 1]
+Akash Nair 
+
+ Senior Data Analyst 
+
+ akash.nair@fakemail.com | +91-9876-543210 | 123 Innovation Lane, Bangalore, Karnataka 560001
+
+ 
+ Professional Summary 
+
+ 
+ Senior Data Analyst with 14+ years of experience driving business decisions through advanced analytics and
+ machine learning. Expert in building enterprise analytics platforms, predictive models, and data-driven
+
+ insights. Proven leadership managing analytics teams and translating complex data into actionable strategies.
+ Passionate about leveraging data to optimize manufacturing operations and drive innovation.
+
+ 
+ Technical Skills 
+
+ 
+ (cid:127) Data Tools: Python (pandas, NumPy, scikit-learn), SQL, Tableau, Power BI
+
+ (cid:127) Statistics & Analytics: Statistical Analysis, Hypothesis Testing, Regression Analysis, Time-Series
+ Forecasting 
+
+ (cid:127) Databases: SQL Server, PostgreSQL, Snowflake, BigQuery 
+ (cid:127) Programming: Python, R, SQL, Excel VBA 
+
+ (cid:127) Manufacturing Domain: Supply Chain Analytics, Production Planning, Quality Analysis, Lean Six Sigma
+ (cid:127) Business: Finance, Business Acumen, Stakeholder Management 
+
+ 
+
+ Work Experience 
+
+ 
+ Data Analyst 
+
+ Velocity Motors | 2024 - 2026 
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+
+ annually 
+
+ Senior Data Analyst 
+
+ Swift Rides Corp | 2020 - 2023 
+
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+ (cid:127) Published 2 peer-reviewed papers on manufacturing optimization in industry journals
+
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually
+
+[Page 2]
+(cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+ locations 
+
+ 
+ Lead Data Analyst / Team Lead 
+
+ Global Engineering Solutions | 2014 - 2019 
+ (cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+
+ locations 
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+
+ 
+ Lead Data Analyst / Team Lead 
+ Precision Instruments Ltd | 2011 - 2013 
+
+ (cid:127) Pioneered data democratization strategy reducing report turnaround time from days to minutes
+
+ (cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+ locations 
+
+ (cid:127) Published 2 peer-reviewed papers on manufacturing optimization in industry journals
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+
+ 
+ Lead Data Analyst / Team Lead 
+
+ Innovatech Solutions | 2008 - 2010 
+ (cid:127) Architected ML pipeline for predictive maintenance reducing downtime by 26% and saving $2.3M
+ annually 
+
+ (cid:127) Managed analytics team of 4 professionals delivering 40+ dashboards supporting C-suite decisions
+
+ (cid:127) Designed and implemented real-time supply chain analytics system tracking 500+ SKUs across 12
+ locations 
+
+ (cid:127) Led data analytics transformation initiative building modern data stack (Snowflake, dbt, Tableau)
+
+ 
+
+ Education 
+
+ B.Tech in Computer Science & Engineering / B.Sc Statistics 
+
+ City University / Metro University | Graduated: 2004 | GPA: 8.06/10 
+ Relevant Coursework: Data Structures, Database Systems, Statistics, Probability
+
+ M.Tech / M.Sc in Data Science 
+ Tech Institute / Innovation University | Graduated: 2006 | GPA: 8.44/10 
+ Relevant Coursework: Machine Learning, Statistical Learning, Big Data Systems 
+
+ 
+ Certifications
+
+[Page 3]
+(cid:127) Google Analytics Individual Qualification (2023) 
+
+ (cid:127) Microsoft Certified: Data Analyst Associate (2023) 
+
+ 
+
+ Projects 
+
+ Predictive Maintenance ML Model 
+
+ (cid:127) Developed ML model predicting equipment failures using historical data
+
+ (cid:127) Impact: 87% accuracy, saved $2.3M in preventive maintenance optimization
+
+ Production Analytics Dashboard 
+
+ (cid:127) Built enterprise Tableau dashboard tracking 45+ KPIs across 5 facilities
+
+ (cid:127) Impact: Reduced report generation time from 16h to 1h weekly 
+
+ Quality Analytics ETL Pipeline 
+
+ (cid:127) Built automated data pipeline (Python/SQL) processing daily quality records
+
+ (cid:127) Impact: Enabled real-time defect trending, 8% improvement in first-pass yield
+
+ Supply Chain Analytics Platform 
+
+ (cid:127) Designed data warehouse (Snowflake) supporting 50+ supply chain analysts
+
+ (cid:127) Impact: Inventory optimization, 12% reduction in carrying costs 
+
+ 
+
+ Achievements 
+
+ 
+ (cid:127) Achievement 1 
+
+ 
+ Languages 
+
+ 
+ (cid:127) English 
+
+ (cid:127) Hindi 
+
+ 
+
+ Contact 
+
+ akash.nair@fakemail.com 
+
+ +91-9876-543210 
+
+ 123 Innovation Lane, Bangalore, Karnataka 560001 
+ linkedin.com/in/akash-nair-profile 
+
+ github.com/akashnair-github
